@@ -9,7 +9,7 @@ subtitle: Life in AI Lab
 ## 2024
 #### Commencement, August 2024                                                        
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24S_2.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24S.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24S_1.jpg" width="700" align="center"/>
 
 #### KCCV, August 2024                                                        
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" width="700" align="center"/>
