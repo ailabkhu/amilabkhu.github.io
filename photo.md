@@ -7,6 +7,9 @@ subtitle: Life in AI Lab
 <hr>
 
 ## 2024
+#### KCCV, August 2024                                                        
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" width="700" align="center"/>
+
 #### CVPR, June 2024                                                        
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_2.jpg" width="700" align="center"/>
