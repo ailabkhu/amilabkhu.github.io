@@ -1,12 +1,12 @@
 ---
 layout: page
-title: AI Lab
+title: AMI Lab
 subtitle: <b>A</b>ugmented <b>I</b>ntelligence  Laboratory
 published: true
 ---
 
-Welcome to **AI Lab** at **Kyung Hee University**!             
-Augmented Intelligence means we are studying AI for humanity.                    
+Welcome to **AMI Lab** at **Kyung Hee University**!             
+AugMented Intelligence means we are studying AI for humanity.                    
 Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, Human-level Understanding 
 
 ### Our Mission: 
@@ -15,7 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
-- Oct. 2024: We won the **MICCAI 2024 PhaKIR Award (1st Place)** in the category of "Surgical Instrument Instance Segmentation" (part of EndoVis Challenge). Congrats to the winners (Enki, Hyeon Bae, Oh Sung, Ka Young).
+- Oct. 2024: We won the **MICCAI 2024 PhaKIR Award** as 1st place in the category of "Surgical Instrument Instance Segmentation" challenge (part of EndoVis). Congrats to Winners (Enki, Hyeon Bae, Oh Sung, Ka Young).
 - Aug. 2024 Minkuk and Soyoun completed their MS program and joined as PhD students! Congrats!  
 - Jul. 2024 One paper got accepted to **ECCV 2024**! Congrats!
 - Jun. 2024 One paper got accepted to **MICCAI 2024**! Congrats Hyeon Bae, Yong Hyun!
