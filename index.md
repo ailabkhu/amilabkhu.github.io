@@ -15,7 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
-- Oct. 2024: We won the MICCAI 2024 PhaKIR (part of EndoVis Challenge) in the category of "Surgical Instrument Instance Segmentation." Congrats to the winners (Enki, Hyeon Bae, Oh Sung, Ka Young).
+- Oct. 2024: We won the MICCAI 2024 PhaKIR Award (1st Place) in the category of "Surgical Instrument Instance Segmentation" (part of EndoVis Challenge). Congrats to the winners (Enki, Hyeon Bae, Oh Sung, Ka Young).
 - Aug. 2024 Minkuk and Soyoun completed their MS program and joined as PhD students! Congrats!  
 - Jul. 2024 One paper got accepted to **ECCV 2024**! Congrats!
 - Jun. 2024 One paper got accepted to **MICCAI 2024**! Congrats Hyeon Bae, Yong Hyun!
