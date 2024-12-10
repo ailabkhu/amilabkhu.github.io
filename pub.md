@@ -6,6 +6,14 @@ subtitle: Publications
 *: Corresponding Author                        
 **Bold**: Member of Augmented Intelligence Lab.              
 
+### 2025
+- **[C47]** HiCM^2: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
+**Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+- **[C46]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
+**AMEER HAMZA**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+
 ### 2024
 - **[C45]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***            
