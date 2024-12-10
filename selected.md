@@ -6,7 +6,13 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
-- **[SP26]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
+- **[S28]** HiCM^2: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
+**Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+- **[S27]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
+**AMEER HAMZA**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+-  **[SP26]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***                    
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)                
 - **[SP25]** MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection                                      
