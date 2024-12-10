@@ -6,7 +6,7 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
-- **[S28]** HiCM^2: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
+- **[S28]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[S27]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
