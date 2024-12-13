@@ -25,6 +25,9 @@ yhahn@khu.ac.kr
 * Uncertainty Estimation
 
 #### Publication
+- **[C4]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
+Ameer Hamza, Abdullah, **Yong Hyun Ahn**, Sungyoung Lee, Seong Tae Kim          
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C3]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 Hyeon Bae Kim, **Yong Hyun Ahn (co-first)**, Seong Tae Kim            
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)
