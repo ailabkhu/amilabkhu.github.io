@@ -24,7 +24,7 @@ abdullahijaz@khu.ac.kr
 * Multimodal AI
 
 #### Publication
-- **[C2]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies
+- **[C2]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                    
   Ameer Hamza, **Abdullah**, Yong Hyun Ahn, Sungyoung Lee, Seong Tae Kim           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C1]** Resource-Efficient Medical Report Generation using Large Language Models                                      
