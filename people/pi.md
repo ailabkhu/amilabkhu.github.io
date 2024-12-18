@@ -40,16 +40,17 @@ st.kim@khu.ac.kr
 #### Professional Services
 * Organizing Committee - MICCAI 2025
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
-* Area Chair - _MICCAI 2022_, _MICCAI 2023_ 
-* Reviewer / Program Committee - _NeurIPS (2022)_, _CVPR (2020-2022)_, _ICCV (2021)_, _ECCV (2020)_, _ICLR (2022)_, _AAAI (2021-2023)_, _MICCAI (2019-2021)_, _IROS (2020)_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE Trans. Cybernetics_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, Pattern Recognition, etc. 
+* Area Chair - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_ 
+* Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE Trans. Cybernetics_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, Pattern Recognition, etc. 
 
 #### Awards and Honors
+* PhaKIR Award (1st place in the category surgical instrument segmentation), MICCAI Endoscopic Vision Challenge (2024)
 * Top 25% Program Committee, AAAI(2021)
 * Research Credit Award, Google Cloud (2019-2021)
 * Outstanding Reviewer Award, BMVC (2020)
-* Robert F. Wagner Best Student Paper Award, SPIE Medical Imaging (2018) 
+* Best Student Paper Award, SPIE Medical Imaging (2018) 
 * Research Excellence Award, School of Electrical Engineering, KAIST (2016,2017,2018) 
-* 24th Samsung HumanTech Honorable mentions (2018)
+* 24th Samsung HumanTech Honorable Mentions (2018)
 * 23rd Samsung HumanTech Paper Award (2017)
 * Best 10% Paper Award, IEEE International Conference on Image Processing (2015)
 * Honorable Mention Poster Award, SPIE Medical Imaging (2015)
