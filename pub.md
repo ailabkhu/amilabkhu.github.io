@@ -8,7 +8,7 @@ subtitle: Publications
 
 ### 2025
 - **[J21]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
-**Enki Cho**, Jung Uk Kim*, **Seong Tae Kim***           
+**Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
 - **[C47]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
