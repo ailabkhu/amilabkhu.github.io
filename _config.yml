@@ -20,7 +20,7 @@ author: Prof. Seong Tae Kim
 ###############################################
 
 navbar-links:
-  News: 
+  News: "News"
   People: 
     - PI: "people/pi"
     - Students: "people/students"
