@@ -27,7 +27,7 @@ cekkec@khu.ac.kr
 
 #### Publication
 - **[J2]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
-**Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
+**Enki Cho**, Jung Uk Kim, Seong Tae Kim           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
 - **[J1]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 **Enki Cho**, Minkuk Kim, Hyung-Il Kim, Jinyoung Moon, Seong Tae Kim           
