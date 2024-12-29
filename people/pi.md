@@ -38,7 +38,7 @@ st.kim@khu.ac.kr
   - Advisor: [Prof. Konstantinos N Plataniotis](https://scholar.google.com/citations?user=W-4N_2gAAAAJ)
   
 #### Professional Services
-* Organizing Committee - _Outreach Chair of MICCAI 2025_, _Workshop and Tutorial Coordinator of IJCAI 2024_
+* Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
 * Area Chair - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_ 
 * Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE Trans. Cybernetics_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, Pattern Recognition, etc. 
