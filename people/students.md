@@ -11,14 +11,17 @@ subtitle: AI Lab Family
 * [Samra Irshad](students/Sam.md)
 * [Minkuk Kim](students/MinKukKim.md)
 * [Soyoun Won](students/SoyeonOne.md)
+* [Hyeon Bae Kim](students/HyeonbaeKim.md)
 * [Ka Young Kim](students/KaYoungKim.md)
 * Rao Faizan
+* Youngtae Kim
   
 #### MS students
 * [Abdullah](students/Abdullah.md)
-* [Hyeon Bae Kim](students/HyeonbaeKim.md)
 * Yebin Ji
 * [Oh Sung Choo](students/OhsungChoo.md)
+* Youngseob Won
+* Suyoung Yun
 
 #### Undergraduate Interns
 * Heedong Kim
