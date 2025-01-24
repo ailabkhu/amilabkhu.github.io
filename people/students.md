@@ -25,7 +25,6 @@ subtitle: AI Lab Family
 
 #### Undergraduate Interns
 * Heedong Kim
-* Jehyun Park
 
 
 
