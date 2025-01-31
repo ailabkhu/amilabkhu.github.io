@@ -16,8 +16,8 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C46]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
 **Ameer Hamza**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
-- **[J21]** Automated Radiology Report Labeling in Chest X-Ray Pathologies: Development and Evaluation of a Large Language Model Framework
-**Abdullah**, **Seong Tae Kim***
+- **[J21]** Automated Radiology Report Labeling in Chest X-Ray Pathologies: Development and Evaluation of a Large Language Model Framework               
+**Abdullah**, **Seong Tae Kim***                              
 _JMIR Medical Informatics_, 2025         
 
 ### 2024
