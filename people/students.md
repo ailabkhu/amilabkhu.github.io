@@ -33,5 +33,5 @@ subtitle: AI Lab Family
 * [Soyoun Won](students/SoyeonOne.md) (MS 2024), PhD candidate in AMILab
 * [Abdullah](students/Abdullah.md) (MS 2025)
 * Yebin Ji (MS 2025)
-* [Hyeon Bae Kim](students/HyeonbaeKim.md), PhD candidate in AMILab
+* [Hyeon Bae Kim](students/HyeonbaeKim.md) (MS 2025), PhD candidate in AMILab
 
