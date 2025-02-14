@@ -17,8 +17,6 @@ subtitle: AI Lab Family
 * Youngtae Kim
   
 #### MS students
-* [Abdullah](students/Abdullah.md)
-* Yebin Ji
 * [Oh Sung Choo](students/OhsungChoo.md)
 * Youngseob Won
 * Suyoung Yun
@@ -33,4 +31,6 @@ subtitle: AI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md) (MS 2024), PhD candidate in AILab
 * [Minkuk Kim](students/MinKukKim.md) (MS 2024), PhD candidate in AILab
 * [Soyoun Won](students/SoyeonOne.md) (MS 2024), PhD candidate in AILab
+* [Abdullah](students/Abdullah.md)
+* Yebin Ji
 
