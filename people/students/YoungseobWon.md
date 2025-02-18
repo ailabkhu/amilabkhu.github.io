@@ -23,6 +23,4 @@ wysgene19@khu.ac.kr
 * Explainability
 * Reportability 
 
-#### Publication  
-
 <hr>
