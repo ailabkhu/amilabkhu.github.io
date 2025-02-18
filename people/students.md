@@ -18,8 +18,8 @@ subtitle: AI Lab Family
   
 #### MS students
 * [Oh Sung Choo](students/OhsungChoo.md)
-* Youngseob Won
-* Suyoung Yun
+* [Youngseob Won](students/YoungseobWon.md)
+* [Suyoung Yun](students/SuyoungYun.md)
 
 #### Undergraduate Interns
 * Heedong Kim
