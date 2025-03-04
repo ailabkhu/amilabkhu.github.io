@@ -16,6 +16,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 ### Recent News
 <hr>
 - Mar. 2025 Enki is at New York University as a visiting scholar (Global AI Frontier Lab.)
+- Feb. 2025 One MICCAI 2025 workshop got accepted. Prof. Seong Tae Kim will serve as Co-Chair of [GRAIL (Workshop on GRaphs in biomedicAl Image anaLysis)](https://grail-miccai.github.io/) 2025 
 - Dec. 2024 One paper got accepted to **IEEE Transactions on Circuits and Systems for Video Technology (IF: 8.3, JCR IF Rank 5.5%)**! Congrats Enki!
 - Dec. 2024 Two papers (on Vision-Language Models) got accepted to **AAAI 2025**! Congrats Minkuk, Hyeon Bae, Hamza, Abdullah, Yong Hyun!
 - Oct. 2024: We have won the **MICCAI 2024** PhaKIR Challenge (1st prize) in the category of "Surgical Instrument Instance Segmentation" (part of EndoVis challenge). Congrats to Winners (Enki, Hyeon Bae, Oh Sung, Ka Young).  
