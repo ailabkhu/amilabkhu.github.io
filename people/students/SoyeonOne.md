@@ -8,17 +8,11 @@ subtitle: AI Lab Family
 
 #### Soyoun Won
   
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SoyeonOne.jpg" width="200" height="265" align="left" hspace="20" />
-PhD Student (2024.9~)                   
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SoyeonOne.jpg" width="200" height="265" align="left" hspace="20" />            
 Master Student (2022.9~2024.8)   
 
 Department of Computer Science and Engineering, Kyung Hee University         
-            
-
-**Contact**  
-sy.won@khu.ac.kr                                         
-#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
-
+             
 #### Research Interest
 * Explainable AI
 * Feature Attribution
