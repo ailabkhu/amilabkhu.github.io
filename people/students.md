@@ -26,11 +26,11 @@ subtitle: AI Lab Family
 
 
 #### Alumni
-* [Enki Cho](students/EnkiCho.md) (MS 2024), PhD candidate in KHU AMILab
-* [Yong Hyun Ahn](students/YongHyunAhn.md) (MS 2024), PhD candidate in KHU AMILab
-* [Minkuk Kim](students/MinKukKim.md) (MS 2024), PhD candidate in KHU AMILab
+* [Enki Cho](students/EnkiCho.md) (MS 2024), PhD candidate at KHU AMILab
+* [Yong Hyun Ahn](students/YongHyunAhn.md) (MS 2024), PhD candidate at KHU AMILab
+* [Minkuk Kim](students/MinKukKim.md) (MS 2024), PhD candidate at KHU AMILab
 * [Soyoun Won](students/SoyeonOne.md) (MS 2024), PhD candidate at University of Melbourne
 * [Abdullah](students/Abdullah.md) (MS 2025)
 * Yebin Ji (MS 2025)
-* [Hyeon Bae Kim](students/HyeonbaeKim.md) (MS 2025), PhD candidate in KHU AMILab
+* [Hyeon Bae Kim](students/HyeonbaeKim.md) (MS 2025), PhD candidate at KHU AMILab
 
