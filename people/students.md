@@ -13,7 +13,7 @@ subtitle: AI Lab Family
 * [Hyeon Bae Kim](students/HyeonbaeKim.md)
 * [Ka Young Kim](students/KaYoungKim.md)
 * Rao Faizan
-* Youngtae Kim
+* [Youngtae Kim](students/YoungtaeKim.md)
   
 #### MS students
 * [Oh Sung Choo](students/OhsungChoo.md)
@@ -21,8 +21,8 @@ subtitle: AI Lab Family
 * [Suyoung Yun](students/SuyoungYun.md)
 
 #### Undergraduate Interns
-* Heedong Kim
-
+* [Heedong Kim](students/HeedongKim.md)
+* [JeongIn Bae](students/JeongInBae.md)
 
 
 #### Alumni
