@@ -6,6 +6,15 @@ subtitle: Life in AI Lab
 
 <hr>
 
+## 2025
+#### AAAI, Feb 2025    
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI2025_1.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI2025_2.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI2025_3.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI2025_4.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI2025_5.jpg" width="700" align="center"/>
+
+
 ## 2024
 #### ICIP, October 2024      
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ICIP_2024.jpg" width="700" align="center"/>
