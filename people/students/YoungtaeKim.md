@@ -6,10 +6,10 @@ subtitle: AI Lab Family
 
 <hr>
 
-#### Ka Young Kim
+#### Youngtae Kim
   
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/YoungtaeKim.JPG" width="200" height="265" align="left" hspace="20" />
-PhD Combined Student (2025.3~)        
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/YoungtaeKim.jpg" width="200" height="265" align="left" hspace="20" />
+PhD Student (2025.3~)        
 
 Department of Artificial Intelligence, Kyung Hee University         
             
