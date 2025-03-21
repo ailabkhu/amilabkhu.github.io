@@ -9,7 +9,7 @@ subtitle: AI Lab Family
 #### Hyeonbae Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/HyeonbaeKim.jpg" width="200" height="265" align="left" hspace="20" />
-Master Student (2023.3~)        
+PhD Student (2025.3~) Master Student (2023.3~2025.2)      
 
 Department of Artificial Intelligence, Kyung Hee University         
             
