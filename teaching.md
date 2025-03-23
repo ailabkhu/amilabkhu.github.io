@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 ---
 
+### 2025
+#### Spring
+- CSE203 Computer Architecture (Undergraduate)
+- CSE405 Graduation Project (Undergraduate)
+- AI7001 AI and Ethics (Graduate)
+  
 ### 2024
 #### Fall
 - CSE203 Computer Architecture (Undergraduate) 
