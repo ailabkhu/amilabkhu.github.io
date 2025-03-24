@@ -11,7 +11,7 @@ subtitle: AI Lab Family
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/HeedongKim.jpg" width="200" height="265" align="left" hspace="20" />
 Undergraduate Intern (2024.1~)  
 
-Department of Computer Science and Engineering, Kyung Hee University         
+Department of Software Convergence, Kyung Hee University         
             
 **Contact**  
 opical68@khu.ac.kr                                       
