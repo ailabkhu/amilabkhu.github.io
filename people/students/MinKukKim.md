@@ -21,8 +21,9 @@ asdjklfgh97@khu.ac.kr
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
-* Video Object Segmentation
 * Dense Video Captioning
+* Retrieval Augmented Generation
+* Long Video Understanding
 
 #### Publication
 - **[C3]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
