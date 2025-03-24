@@ -9,7 +9,6 @@ subtitle: AI Lab Family
 #### Minkuk Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MinkukKim.jpg" width="200" height="265" align="left" hspace="20" />
-
 PhD Student (2024.9~)        
 Master Student (2022.9~2024.8)        
 
