@@ -6,7 +6,7 @@ published: true
 ---
 
 Welcome to **AMI Lab** at **Kyung Hee University**!             
-AugMented Intelligence means we are studying AI for humanity.                    
+Augmented Intelligence means we are studying AI for humanity.                    
 Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, Human-level Understanding 
 
 ### Our Mission: 
