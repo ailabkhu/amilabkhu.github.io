@@ -7,7 +7,7 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
-- **[J22]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
+- **[J23]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
 - **[C47]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
@@ -16,6 +16,9 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C46]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
 **Ameer Hamza**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+- **[J22]** Unified Link Prediction Modeling for Enhanced Knowledge Graph Completion Task              
+Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, Rao Faizan, **Jamil Hussain**, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee*                              
+_Espert Systems with Applications_, 2025 
 - **[J21]** Automated Radiology Report Labeling in Chest X-Ray Pathologies: Development and Evaluation of a Large Language Model Framework               
 **Abdullah**, **Seong Tae Kim***                              
 _JMIR Medical Informatics_, 2025         
