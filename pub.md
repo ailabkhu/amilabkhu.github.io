@@ -17,7 +17,7 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 **Ameer Hamza**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[J22]** Unified Link Prediction Modeling for Enhanced Knowledge Graph Completion Task              
-Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, **Rao Faizan**, Jamil Hussain, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee*                              
+Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, **Rao Faizan**, Jamil Hussain, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee\*                              
 _Espert Systems with Applications_, 2025 
 - **[J21]** Automated Radiology Report Labeling in Chest X-Ray Pathologies: Development and Evaluation of a Large Language Model Framework               
 **Abdullah**, **Seong Tae Kim***                              
