@@ -17,7 +17,7 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[SP27]** Unified Link Prediction Modeling for Enhanced Knowledge Graph Completion Task              
 Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, **Rao Faizan**, Jamil Hussain, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee\*                              
-_Espert Systems with Applications_, 2025 
+_Expert Systems with Applications_, 2025 
 -  **[SP26]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***                    
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)                
