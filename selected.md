@@ -6,15 +6,18 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
-- **[S29]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
+- **[S30]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
-- **[S28]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
+- **[S29]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
-- **[S27]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
+- **[S28]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
 **Ameer Hamza**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+- **[SP27]** Unified Link Prediction Modeling for Enhanced Knowledge Graph Completion Task              
+Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, **Rao Faizan**, Jamil Hussain, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee\*                              
+_Espert Systems with Applications_, 2025 
 -  **[SP26]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***                    
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)                
