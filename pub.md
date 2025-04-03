@@ -10,6 +10,9 @@ subtitle: Publications
 - **[J23]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
+- **[C48]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
+Jongseo Lee, Wooil Lee, G.-M. Park\*, **Seong Tae Kim**\* and Jinwoo Choi\*           
+_Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR_, 2025 (Philadelphia)
 - **[C47]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
