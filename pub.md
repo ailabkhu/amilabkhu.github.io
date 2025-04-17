@@ -12,7 +12,7 @@ subtitle: Publications
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
 - **[C48]** PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition                                      
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\*, **Seong Tae Kim**\* and Jinwoo Choi\*           
-_Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR_, 2025 (Philadelphia)
+_Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR_, 2025 (Nashville)
 - **[C47]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
