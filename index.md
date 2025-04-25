@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AMI Lab
+# title: AMI Lab
 subtitle: <b>A</b>ug<b>M</b>ented <b>I</b>ntelligence  Laboratory
 published: true
 ---
