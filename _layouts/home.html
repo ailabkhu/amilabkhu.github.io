@@ -35,8 +35,19 @@ layout: page
       </div>
       {% endif %}
       {% endif %}
-
       <a href="{{ post.url | absolute_url }}">
+        <div class="post-title-logo">
+          <img src="{{ '/assets/img/AMI_LAB_Logo.png' | absolute_url }}" alt="AMI Lab Logo" style="width: 25%; height: auto;">
+        </div>
+      
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">
+            {{ post.subtitle | strip_html }}
+          </h3>
+        {% endif %}
+      </a>
+      
+      <!-- <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
@@ -44,7 +55,7 @@ layout: page
           {{ post.subtitle | strip_html }}
           </h3>
         {% endif %}
-      </a>
+      </a> -->
 
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
