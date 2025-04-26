@@ -5,6 +5,10 @@ subtitle: <b>A</b>ug<b>M</b>ented <b>I</b>ntelligence  Laboratory
 published: true
 ---
 
+<p align="center">
+  <img src="{{ '/assets/img/AMI_LAB_Logo.png' | absolute_url }}" alt="AMI Lab Logo" style="width: 25%; height: auto;">
+</p>
+
 Welcome to **AMI Lab** at **Kyung Hee University**!             
 Augmented Intelligence means we are studying AI for humanity.                    
 Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, Human-level Understanding 
