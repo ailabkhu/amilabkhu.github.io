@@ -5,7 +5,7 @@ subtitle: <b>A</b>ug<b>M</b>ented <b>I</b>ntelligence  Laboratory
 published: true
 ---
 
-<p align="center">
+<p align="left" style="margin-top: 10px">
   <img src="{{ '/assets/img/AMI_LAB_Logo.png' | absolute_url }}" alt="AMI Lab Logo" style="width: 25%; height: auto;">
 </p>
 
