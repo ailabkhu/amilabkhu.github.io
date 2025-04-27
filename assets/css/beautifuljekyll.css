@@ -746,7 +746,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 0.875rem;
   }
 }
-
+@media (min-width: 768px) { /* 768px 이상일 때 (태블릿, 데스크탑 등) */
+  .navbar {
+    padding: 0.5rem 10rem;
+  }
+}
 .header-section.has-img .no-img {
   margin-top: 0;
   background-color: #FCFCFC;
