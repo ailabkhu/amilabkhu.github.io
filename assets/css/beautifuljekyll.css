@@ -50,6 +50,9 @@ h1, h2, h3, h4 {
 strong{
   color: #990F19;
 }
+hr.small{
+  color:#990F19;
+}
 
 a {
   color: {{ site.link-col | default: "#008AFF" }};
