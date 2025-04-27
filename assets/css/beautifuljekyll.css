@@ -47,6 +47,10 @@ h1, h2, h3, h4 {
   color: #990F19;
   margin-top: 1.25rem;
 }
+strong{
+  color: #990F19;
+}
+
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
