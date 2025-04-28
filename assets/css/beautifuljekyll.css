@@ -746,11 +746,34 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 0.875rem;
   }
 }
-@media (min-width: 768px) { /* 768px 이상일 때 (태블릿, 데스크탑 등) */
+/* 0 ~ 767px: 모바일 화면 */
+@media (max-width: 1023px) {
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+}
+
+/* 768px ~ 1023px: 태블릿 화면 */
+@media (min-width: 1024px) and (max-width: 1640px) {
   .navbar {
     padding: 0.5rem 10rem;
   }
 }
+/* 768px ~ 1023px: 태블릿 화면 */
+@media (min-width: 1641px) and (max-width: 2000px) {
+  .navbar {
+    padding: 0.5rem 20rem;
+  }
+}
+/* 768px ~ 1023px: 태블릿 화면 */
+@media (min-width: 2001px) {
+  .navbar {
+    padding: 0.5rem 30rem;
+  }
+}
+
+
+
 .header-section.has-img .no-img {
   margin-top: 0;
   background-color: #FCFCFC;
