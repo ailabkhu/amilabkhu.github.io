@@ -53,13 +53,13 @@ published: true
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(0, 0, 0, 0.5); /* 반투명 검정 */
+  background:rgba(153, 15, 24, 0.3); /* 반투명 검정 */
   border: none;
   font-size: 1.8rem;
   font-weight: bold;
   color: white; /* 화살표는 흰색 */
   cursor: pointer;
-  padding: 0.4rem 0.7rem;
+  padding: 0rem 0.83rem;
   border-radius: 50%;
   transition: all 0.3s ease;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* 부드러운 그림자 */
@@ -67,7 +67,7 @@ published: true
 }
 
 .prev:hover, .next:hover {
-  background: rgba(0, 0, 0, 0.7); /* hover 시 좀 더 진하게 */
+  background: rgba(153, 15, 24, 0.6); /* hover 시 좀 더 진하게 */
   transform: translateY(-50%) scale(1.1); /* hover 시 약간 커짐 */
 }
 
