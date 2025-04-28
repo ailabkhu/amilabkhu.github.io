@@ -25,22 +25,6 @@ published: true
   <button onclick="moveSlide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10094;</button>
   <button onclick="moveSlide(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10095;</button>
 
-  <!-- 동그라미 표시 -->
-  <div id="dots" style="text-align: center; margin-top: 10px;">
-    <span onclick="currentSlide(0)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(1)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(2)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(3)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(4)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(5)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(6)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(7)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(8)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(9)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(10)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(11)" style="cursor: pointer; font-size: 2rem;">●</span>
-    <span onclick="currentSlide(12)" style="cursor: pointer; font-size: 2rem;">●</span>
-  </div>
 </div>
 
 <style>
@@ -63,26 +47,32 @@ published: true
   object-position: center;
   flex-shrink: 0;
 }
+
 .prev, .next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(255, 255, 255, 0.5); /* 반투명 흰색 */
+  background: rgba(0, 0, 0, 0.5); /* 반투명 검정 */
   border: none;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: bold;
-  color: black; /* 화살표는 검정 */
+  color: white; /* 화살표는 흰색 */
   cursor: pointer;
-  padding: 0.5rem 0.8rem;
-  border-radius: 50%; /* 완전 동그라미 */
-  transition: background 0.3s;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2); /* 살짝 그림자 */
+  padding: 0.4rem 0.7rem;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* 부드러운 그림자 */
+  backdrop-filter: blur(5px); /* 배경 흐림 */
 }
+
 .prev:hover, .next:hover {
-  background: rgba(255, 255, 255, 0.8); /* hover 시 약간 더 밝게 */
+  background: rgba(0, 0, 0, 0.7); /* hover 시 좀 더 진하게 */
+  transform: translateY(-50%) scale(1.1); /* hover 시 약간 커짐 */
 }
-.prev { left: 15px; }
-.next { right: 15px; }
+
+.prev { left: 10px; }
+.next { right: 10px; }
+
 /* 동그라미 표시 */
 #dots {
   text-align: center;
@@ -104,7 +94,29 @@ published: true
     object-fit: cover;
     object-position: center;
   }
+  .prev, .next {
+    font-size: 1.5rem;
+    padding: 0.4rem 0.6rem;
+  }
 }
+
+@media (max-width: 600px) {
+  .slider-container {
+    width: 300px;
+    height: 200px;
+  }
+  #slider img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .prev, .next {
+    font-size: 1.2rem;
+    padding: 0.3rem 0.5rem;
+  }
+}
+
 </style>
 
 
