@@ -22,8 +22,9 @@ published: true
   </div>
 
   <!-- 좌우 버튼 -->
-  <button onclick="moveSlide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10094;</button>
-  <button onclick="moveSlide(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10095;</button>
+<button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+<button class="next" onclick="moveSlide(1)">&#10095;</button>
+
 
 </div>
 
