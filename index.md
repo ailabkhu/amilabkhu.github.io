@@ -8,9 +8,9 @@ published: true
 
 <div style="position: relative; width: 600px; height: 300px; margin: auto; overflow: hidden;">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI3.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI3.jpg">
   </div>
 
   <!-- 좌우 버튼 -->
@@ -24,6 +24,64 @@ published: true
     <span onclick="currentSlide(2)" style="cursor: pointer; font-size: 2rem;">●</span>
   </div>
 </div>
+
+<style>
+.slider-container {
+  position: relative;
+  width: 600px;
+  height: 300px;
+  margin: auto;
+  overflow: hidden;
+}
+
+#slider {
+  display: flex;
+  transition: transform 0.5s ease;
+  width: 100%;
+}
+
+#slider img {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: white;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.prev { left: 10px; }
+.next { right: 10px; }
+
+#dots {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#dots span {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+@media (max-width: 1000px) {
+  .slider-container {
+    width: 450px;
+    height: 300px;
+  }
+
+  #slider img {
+    width: 450px;
+    height: 300px;
+  }
+}
+</style>
 
 <!-- slider.js 불러오기 -->
 <script src="/assets/js/slider.js"></script>
