@@ -6,11 +6,11 @@ published: true
 ---
 
 
-<div style="position: relative; width: 600px; margin: auto; overflow: hidden;">
+<div style="position: relative; width: 600px; height: 300px; margin: auto; overflow: hidden;">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_5.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI3.jpg" style="width: 600px; height: 300px; object-fit: cover; flex-shrink: 0;">
   </div>
 
   <!-- 좌우 버튼 -->
