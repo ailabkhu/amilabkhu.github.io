@@ -6,11 +6,19 @@ published: true
 ---
 
 
-<div class="slider-container">
+<div class="slider-container" style="position: relative; overflow: hidden;">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_2.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_4.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ICIP_2024.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI6.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI3.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg">
-    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI3.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_1.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_3.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_4.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_5.jpg">
   </div>
 
   <!-- 좌우 버튼 -->
@@ -22,13 +30,24 @@ published: true
     <span onclick="currentSlide(0)" style="cursor: pointer; font-size: 2rem;">●</span>
     <span onclick="currentSlide(1)" style="cursor: pointer; font-size: 2rem;">●</span>
     <span onclick="currentSlide(2)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(3)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(4)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(5)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(6)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(7)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(8)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(9)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(10)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(11)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(12)" style="cursor: pointer; font-size: 2rem;">●</span>
   </div>
 </div>
+
 <style>
 .slider-container {
   position: relative;
   width: 800px;
-  height: 600px;
+  height: 500px;
   margin: auto;
   overflow: hidden;
 }
@@ -39,7 +58,7 @@ published: true
 }
 #slider img {
   width: 800px;
-  height: 600px;
+  height: 500px;
   object-fit: cover;
   object-position: center;
   flex-shrink: 0;
