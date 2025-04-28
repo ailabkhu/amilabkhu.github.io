@@ -41,22 +41,30 @@ published: true
   width: 800px;
   height: 600px;
   object-fit: cover;
-  object-position: center; 
+  object-position: center;
   flex-shrink: 0;
 }
 .prev, .next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(255, 255, 255, 0.7); 
+  background: rgba(255, 255, 255, 0.5); /* 반투명 흰색 */
   border: none;
-  font-size: 2.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black; /* 화살표는 검정 */
   cursor: pointer;
-  padding: 5px 10px;
-  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+  border-radius: 50%; /* 완전 동그라미 */
+  transition: background 0.3s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2); /* 살짝 그림자 */
 }
-.prev { left: 10px; }
-.next { right: 10px; }
+.prev:hover, .next:hover {
+  background: rgba(255, 255, 255, 0.8); /* hover 시 약간 더 밝게 */
+}
+.prev { left: 15px; }
+.next { right: 15px; }
+/* 동그라미 표시 */
 #dots {
   text-align: center;
   margin-top: 20px;
@@ -75,7 +83,7 @@ published: true
     width: 450px;
     height: 300px;
     object-fit: cover;
-    object-position: center; /* ⭐ 작은 화면에서도 중앙 기준 */
+    object-position: center;
   }
 }
 </style>
