@@ -41,8 +41,8 @@ published: true
 }
 
 #slider img {
-  width: 600px;
-  height: 400px;
+  width: 800px;
+  height: 600px;
   object-fit: cover;
   flex-shrink: 0;
 }
