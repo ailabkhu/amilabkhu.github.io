@@ -3,7 +3,7 @@ const slider = document.getElementById('slider');
 const slides = document.querySelectorAll('#slider img');
 const totalSlides = slides.length;
 const dots = document.querySelectorAll('#dots span');
-const slideWidth = 600; // 슬라이드 하나의 너비
+const slideWidth = 800; // 슬라이드 하나의 너비
 
 function updateSlider() {
   slider.style.transform = `translateX(${-slideWidth * currentIndex}px)`;
