@@ -28,8 +28,8 @@ published: true
 <style>
 .slider-container {
   position: relative;
-  width: 600px;
-  height: 300px;
+  width: 800px;
+  height: 600px;
   margin: auto;
   overflow: hidden;
 }
