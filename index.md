@@ -6,7 +6,7 @@ published: true
 ---
 
 
-<div style="position: relative; width: 600px; height: 300px; margin: auto; overflow: hidden;">
+<div class="slider-container">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg">
