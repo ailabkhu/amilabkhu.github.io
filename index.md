@@ -24,7 +24,6 @@ published: true
     <span onclick="currentSlide(2)" style="cursor: pointer; font-size: 2rem;">●</span>
   </div>
 </div>
-
 <style>
 .slider-container {
   position: relative;
@@ -33,55 +32,54 @@ published: true
   margin: auto;
   overflow: hidden;
 }
-
 #slider {
   display: flex;
   transition: transform 0.5s ease;
   width: 100%;
 }
-
 #slider img {
   width: 800px;
   height: 600px;
   object-fit: cover;
+  object-position: center; 
   flex-shrink: 0;
 }
-
 .prev, .next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: white;
+  background: rgba(255, 255, 255, 0.7); 
   border: none;
-  font-size: 2rem;
+  font-size: 2.5rem;
   cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
-
 .prev { left: 10px; }
 .next { right: 10px; }
-
 #dots {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 20px;
 }
-
 #dots span {
   cursor: pointer;
   font-size: 2rem;
+  margin: 0 5px;
 }
-
 @media (max-width: 1000px) {
   .slider-container {
     width: 450px;
     height: 300px;
   }
-
   #slider img {
     width: 450px;
     height: 300px;
+    object-fit: cover;
+    object-position: center; /* ⭐ 작은 화면에서도 중앙 기준 */
   }
 }
 </style>
+
 
 <!-- slider.js 불러오기 -->
 <script src="/assets/js/slider.js"></script>
