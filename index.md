@@ -5,6 +5,28 @@ subtitle: <b>A</b>ug<b>M</b>ented <b>I</b>ntelligence  Laboratory
 published: true
 ---
 
+
+<div style="position: relative; width: 600px; margin: auto; overflow: hidden;">
+  <div id="slider" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI1.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/KCCV2024.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR24_5.jpg" style="height: 300px; width: auto; flex-shrink: 0;">
+  </div>
+
+  <!-- 좌우 버튼 -->
+  <button onclick="moveSlide(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10094;</button>
+  <button onclick="moveSlide(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: white; border: none; font-size: 2rem; cursor: pointer;">&#10095;</button>
+
+  <!-- 동그라미 표시 -->
+  <div id="dots" style="text-align: center; margin-top: 10px;">
+    <span onclick="currentSlide(0)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(1)" style="cursor: pointer; font-size: 2rem;">●</span>
+    <span onclick="currentSlide(2)" style="cursor: pointer; font-size: 2rem;">●</span>
+  </div>
+</div>
+
+<!-- slider.js 불러오기 -->
+<script src="/assets/js/slider.js"></script>
 Welcome to **AMI Lab** at **Kyung Hee University**!             
 Augmented Intelligence means we are studying AI for humanity.                    
 Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, Human-level Understanding 
