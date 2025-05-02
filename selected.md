@@ -6,6 +6,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
+- **[S31]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
+Min-Yeong Park, Won-Jeong Lee, **Seong Tae Kim***, Gyeong-Moon Park\*           
+_International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 - **[S30]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
