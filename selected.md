@@ -6,6 +6,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
+- **[S32]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
+**Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
+_IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
 - **[S31]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
 Min-Yeong Park, Won-Jeong Lee, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
