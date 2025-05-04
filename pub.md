@@ -9,7 +9,7 @@ subtitle: Publications
 ### 2025
 - **[J24]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
-_ IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
+_IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
 - **[C49]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
 Min-Yeong Park, Won-Jeong Lee, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
