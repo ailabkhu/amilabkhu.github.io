@@ -133,6 +133,8 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Enki, Soyoun, Oh Sung!
+- May 2025 One paper got accepted to **ICML 2025**! Congrats!
 - Mar. 2025 Enki is at New York University for six months as a visiting scholar (Global AI Frontier Lab.)
 - Feb. 2025 One MICCAI 2025 workshop got accepted. Prof. Seong Tae Kim will serve as Co-Chair of [GRAIL (Workshop on GRaphs in biomedicAl Image anaLysis)](https://grail-miccai.github.io/) 
 - Dec. 2024 One paper got accepted to **IEEE Transactions on Circuits and Systems for Video Technology (IF: 8.3, JCR IF Rank 5.5%)**! Congrats Enki!
