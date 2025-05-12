@@ -133,6 +133,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- May 2025 One paper got accepted to **Neural Networks (IF: 6.0, JCR IF Rank 10.5%)**! Congrats Soyoun!
 - May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Enki, Soyoun, Oh Sung!
 - May 2025 One paper got accepted to **ICML 2025**! Congrats!
 - Mar. 2025 Enki is at New York University for six months as a visiting scholar (Global AI Frontier Lab.)
