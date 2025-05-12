@@ -6,6 +6,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
+- **[S33]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
+**Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
+_Neural Networks_, 2025
 - **[S32]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
