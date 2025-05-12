@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 ---
-[Full publication list](https://ailab.khu.ac.kr/pub/)
+[Full publication list](https://ami.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
 - **[S33]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
