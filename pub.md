@@ -7,6 +7,9 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
+- **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
+**Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
+_Neural Networks_, 2025
 - **[J24]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
