@@ -7,6 +7,11 @@ subtitle: Life in AI Lab
 <hr>
 
 ## 2025
+#### Gathering, May 2025    
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/202505_1.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/202505_2.jpg" width="700" align="center"/>
+
+
 #### AAAI, Feb 2025    
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_2.jpg" width="700" align="center"/>
