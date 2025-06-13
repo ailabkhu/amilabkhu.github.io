@@ -277,7 +277,17 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [P2] Method and system for automatic biometric authentication based on facial spatio-temporal features (KR 10-1802061)                                  
 - [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
-
+### Patents (Application)                       
+- [PA10] Method and apparatus for generating contrast-enhanced computed tomography images via diffusion (10-2025-0065910)                                
+- [PA9] Method and Systems for natural language explanation using knowledge graph augmented generation (10-2025-0039856)                                
+- [PA8] Method for generating conceptual dataset to explain classification model and computing device for performing the same (10-2025-0027669)
+- [PA7] Apparatus and method for diagnostic assistance based on artificial intelligence processing for radiological images (10-2024-0154220)                                   
+- [PA6] Method for generating conceptual dataset to explain image classification model and computing device for performing the same (10-2024-0146164)                                
+- [PA5] Classification method using machine learning model that can explain the basis of judgment and computing device for performing the same (10-2024-0133344)
+- [PA4] Method of providing information of video caption and electronic apparatus therefor (10-2024-0130084)                          
+- [PA3] Method for measuring interpretability of neural network model and computing device for performing the same (10-2024-0022113)
+- [PA2] Apparatus and method for predicting uncertainty of deepneural network (10-2023-0110754)                                  
+- [PA1] Method for detecting object based on auditory information and computing device for executing the same (10-2023-0001162)
 
 
 
