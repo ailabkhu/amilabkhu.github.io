@@ -5,15 +5,16 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 ---
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
-*: Corresponding Author                        
+*: Corresponding Author,  †: Co-first 
+
 - **[S36]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S35]** Towards Holistic Surgical Scene Graph                                                                                                                   
-Jongmin Shin^, **Enki Cho^**, **Ka Young Kim^**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
+Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S34]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
-Jinhyeok Jang^, Hong Joo Lee^, Nassir Navab, **Seong Tae Kim***           
+Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S33]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
@@ -37,7 +38,7 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 Tri D.T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, **Rao Faizan**, Jamil Hussain, Sung-Ho Base, Jung Uk Kim, **Seong Tae Kim***, Sungyoung Lee\*                              
 _Expert Systems with Applications_, 2025 
 -  **[SP26]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
-**Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***                    
+**Hyeon Bae Kim†**, **Yong Hyun Ahn†**, **Seong Tae Kim***                    
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)                
 - **[SP25]** MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection                                      
 Youngmin Oh, Hyung-Il Kim, **Seong Tae Kim**\*, Jung Uk Kim*            
