@@ -133,6 +133,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Jun. 2025 Three papers got accepted to **MICCAI 2025**! Congrats Ka Young, Enki, Hyeon Bae!
 - May 2025 One paper got accepted to **Neural Networks (IF: 6.0, JCR IF Rank 10.5%)**! Congrats Soyoun!
 - May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Enki, Soyoun, Oh Sung!
 - May 2025 One paper got accepted to **ICML 2025**! Congrats!
