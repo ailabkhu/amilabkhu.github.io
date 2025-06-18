@@ -23,7 +23,7 @@ _Neural Networks_, 2025
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
 - **[S31]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
-Min-Yeong Park, Won-Jeong Lee, **Seong Tae Kim***, Gyeong-Moon Park\*           
+Min-Yeong Park†, Won-Jeong Lee†, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 - **[S30]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
@@ -68,16 +68,16 @@ _International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
 Junho Kim, Seongyeop Kim, **Seong Tae Kim**, Yong Man Ro                 
 _IEEE Transactions on Image Processing (**TIP**)_, 2022
 - **[SP16]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
-Yang Zhang, Ashkan Khakzar, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
+Yang Zhang†, Ashkan Khakzar†, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
 - **[SP15]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
-**Seong Tae Kim***, Leili Goli (co-first), Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
+**Seong Tae Kim***, Leili Goli†, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[SP14]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
 Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, Soroosh Baselizadeh, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[SP13]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
-Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
+Ashkan Khakzar†, Yang Zhang†, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[SP12]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
@@ -91,7 +91,7 @@ _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 20
 
 ### Before 2021
 - **[SP9]**  Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next "Level"                      
-Maria Tirindelli, Maria Victorova, Javier Esteban, **Seong Tae Kim**, David Navarro-Alarcon, Yong Ping Zheng, Nassir Navab                 
+Maria Tirindelli†, Maria Victorova†, Javier Esteban, **Seong Tae Kim**, David Navarro-Alarcon, Yong Ping Zheng, Nassir Navab                 
 _IEEE Robotics and Automation Letters (**RA-L**)_, 2020                                
 _Presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)_, 2020 (Virtual)
 - **[SP8]** TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks           
