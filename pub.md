@@ -3,10 +3,19 @@ layout: page
 title: Research
 subtitle: Publications
 ---
-*: Corresponding Author                        
+*: Corresponding Author, †: Joint first author                        
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
+- **[C52]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+**Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C51]** Towards Holistic Surgical Scene Graph                                                                                                                   
+Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C50]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
@@ -14,7 +23,7 @@ _Neural Networks_, 2025
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
 - **[C49]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
-Min-Yeong Park, Won-Jeong Lee, **Seong Tae Kim***, Gyeong-Moon Park\*           
+Min-Yeong Park†, Won-Jeong Lee†, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 - **[J23]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
@@ -37,7 +46,7 @@ _JMIR Medical Informatics_, 2025
 
 ### 2024
 - **[C45]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
-**Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***            
+**Hyeon Bae Kim†**, **Yong Hyun Ahn†**, **Seong Tae Kim***            
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)
 - **[C44]** MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection                                      
 Youngmin Oh, Hyung-Il Kim, **Seong Tae Kim**\*, Jung Uk Kim\*            
@@ -103,16 +112,16 @@ _IEEE Transactions on Image Processing (**TIP**)_, 2022
 
 ### 2021 
 - **[C34]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
-Yang Zhang, Ashkan Khakzar, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
+Yang Zhang†, Ashkan Khakzar†, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
 - **[C33]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
-**Seong Tae Kim***, Leili Goli (co-first), Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
+**Seong Tae Kim***, Leili Goli†, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[C32]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
 Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, Soroosh Baselizadeh, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[C31]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
-Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
+Ashkan Khakzar†, Yang Zhang†, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
 - **[C30]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
@@ -121,7 +130,7 @@ _International Conference on Medical Image Computing and Computer-Assisted Inter
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
 - **[J12]**  Longitudinal Brain MR Image Modeling using Personalized Memory for Alzheimer’s Disease                      
-**Seong Tae Kim***, Umut Küçükaslan (co-first), Nassir Navab                 
+**Seong Tae Kim***, Umut Küçükaslan†, Nassir Navab                 
 _IEEE Access_, 2021
 - **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
 Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
@@ -147,7 +156,7 @@ _Image and Vision Computing  (**ImaVis**)_, 2020
 Hong Joo Lee, **Seong Tae Kim**, Hakmin Lee, Yong Man Ro                                 
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2020
 - **[C27]** Self-supervised out-of-distribution detection in brain CT scans           
-Abinav Ravi Venkatakrishnan, **Seong Tae Kim***, Rami Eisawy, Franz Pfister, Nassir Navab                           
+Abinav Ravi Venkatakrishnan†, **Seong Tae Kim***, Rami Eisawy, Franz Pfister, Nassir Navab                           
 _Medical Imaging Meets NeurIPS (**NeurIPS Workshop**)_, 2020 (Virtual)
 - **[C26]** TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks           
 Tobias Czempiel, Magdalini Paschali, Matthias Keicher, Walter Simson, Hubertus Feussner, **Seong Tae Kim**, Nassir Navab                           
