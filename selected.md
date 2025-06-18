@@ -6,6 +6,15 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
+- **[S36]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+**Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[S35]** Towards Holistic Surgical Scene Graph                                                                                                                   
+Jongmin Shin^, **Enki Cho^**, **Ka Young Kim^**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[S34]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+Jinhyeok Jang^, Hong Joo Lee^, Nassir Navab, **Seong Tae Kim***           
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S33]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
