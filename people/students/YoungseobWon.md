@@ -25,7 +25,7 @@ wysgene19@khu.ac.kr
 * Reportability 
 
 #### Publications
-- **[C3]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation                                            
+- **[C3]** [Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal](https://doi.org/10.20736/0002002085) Explanation                                            
 **Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, Seong Tae Kim                                           
 _Proceedings of the 18th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-18**)_, 2025 (Tokyo)
 (**first place on HIDDEN-RAD task2**)
