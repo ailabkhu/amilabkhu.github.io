@@ -25,12 +25,12 @@ wysgene19@khu.ac.kr
 * Reportability 
 
 #### Publications
-- **[C3]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation Generation
-**Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, Seong Tae Kim
+- **[C3]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation                                            
+**Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, Seong Tae Kim                                           
 _Proceedings of the 18th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-18**)_, 2025 (Tokyo)
-- **[C2]** ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement
-H. Lim, **Youngseob Won**, J. Seo, and G.-M. Park
+- **[C2]** ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement                                           
+H. Lim, **Youngseob Won**, J. Seo, and G.-M. Park                                           
 _International Conference on Computer Vision (**ICCV**)_, 2025 (Hawaii)
-- **[C1]** LFS-DIFFUSION : Lifelong Few-shot Image Generation In Latent Diffusion Model Via LeFT Weight Modulator
-HaBin Lim, **Y.-S. Won**, SeonHyeok Kim, Yeonjin Seo, and G.-M. Park
+- **[C1]** LFS-DIFFUSION : Lifelong Few-shot Image Generation In Latent Diffusion Model Via LeFT Weight Modulator                                           
+HaBin Lim, **Y.-S. Won**, SeonHyeok Kim, Yeonjin Seo, and G.-M. Park                                           
 _Korea Computer Congress (**KCC**)_, 2024 (Jeju Island)
