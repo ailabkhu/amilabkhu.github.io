@@ -29,7 +29,7 @@ hyeonbae.kim@khu.ac.kr
 Ka Young Kim, **Hyeon Bae Kim**, Seong Tae Kim         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[C5]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning
-  Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim*           
+Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim*           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C4]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, Yong Hyun Ahn (co-first), Seong Tae Kim            
