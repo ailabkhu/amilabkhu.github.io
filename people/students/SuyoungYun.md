@@ -17,6 +17,7 @@ Department of Artificial Intelligence, Kyung Hee University
 **Contact**  
 sy9267@khu.ac.kr                    
 #316, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+<br>
 
 #### Research Interest
 * Temporal Action Detection

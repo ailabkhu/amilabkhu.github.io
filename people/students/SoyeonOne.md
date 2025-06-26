@@ -17,8 +17,12 @@ Department of Computer Science and Engineering, Kyung Hee University
 * Explainable AI
 * Feature Attribution
 * Evaluation of Feature Attribution
+<br>
 
 #### Publication
+- **[C2]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
+**Soyoun Won**, Sung-ho Bae, Seong Tae Kim           
+_Neural Networks_, 2025
 - **[C1]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***         
 _International Conference on Information Networking_, 2024 (Ho Chi Minh City)

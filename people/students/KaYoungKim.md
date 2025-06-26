@@ -16,9 +16,17 @@ Department of Computer Science and Engineering, Kyung Hee University
 **Contact**  
 uwrgoy7584@khu.ac.kr                                         
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+<br>
 
 #### Research Interest
+* Medical AI & Surgical AI
 * Explainable AI
+* Generative AI
 
-
-<hr>
+#### Publication
+- **[C2]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+**Ka Young Kim**, Hyeon Bae Kim, Seong Tae Kim      
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
+Jongmin Shin, Enki Cho (co-first), **Ka Young Kim (co-first)**, Jung Yong Kim, Seong Tae Kim, Namkee Oh                  
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)

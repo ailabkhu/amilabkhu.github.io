@@ -6,18 +6,19 @@ subtitle: AI Lab Family
 
 <hr>
 
-#### Yong Hyun Ahn
+#### Yong Hyun Ahn 
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/YongHyunAhn.jpg" width="200" height="265" align="left" hspace="20" />
 PhD Student (2024.3~)               
 Master Student (2022.3~2024.2)       
 
 Department of Artificial Intelligence, Kyung Hee University         
-            
+**Student Representative**        
 
 **Contact**  
 yhahn@khu.ac.kr                       
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+<br>
 
 #### Research Interest
 * Explainable AI
