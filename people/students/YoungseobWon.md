@@ -27,8 +27,8 @@ wysgene19@khu.ac.kr
 #### Publications
 - **[C3]** [Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal](https://doi.org/10.20736/0002002085) Explanation                                            
 **Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, Seong Tae Kim                                           
-_Proceedings of the 18th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-18**)_, 2025 (Tokyo)
-(**first place on HIDDEN-RAD task2**)
+_Proceedings of the 18th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-18**)_, 2025 (Tokyo)                                           
+\***First place on HIDDEN-RAD task2**
 - **[C2]** ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement                                           
 H. Lim, **Youngseob Won**, J. Seo, and G.-M. Park                                           
 _International Conference on Computer Vision (**ICCV**)_, 2025 (Hawaii)
