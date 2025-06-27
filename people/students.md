@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: AI Lab Family
+subtitle: AMI Lab Family
 ---
   
 #### PhD/MS-PhD students
@@ -21,6 +21,7 @@ subtitle: AI Lab Family
 * [Suyoung Yun](students/SuyoungYun.md)
 
 #### Undergraduate Interns
+* [Inseong Park](students/InseongPark.md)
 * [Heedong Kim](students/HeedongKim.md)
 * [JeongIn Bae](students/JeongInBae.md)
 

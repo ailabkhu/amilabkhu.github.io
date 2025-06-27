@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photos
-subtitle: Life in AI Lab
+subtitle: Life in AMI Lab
 ---
 
 <hr>

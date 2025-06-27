@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People 
-subtitle: AI Lab Family
+subtitle: AMI Lab Family
 ---
 
 ### Principal Investigator

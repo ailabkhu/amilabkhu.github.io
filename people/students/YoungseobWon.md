@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People 
-subtitle: AI Lab Family
+subtitle: AMI Lab Family
 ---
 
 <hr>
@@ -16,7 +16,7 @@ Department of Artificial Intelligence, Kyung Hee University
 
 **Contact**  
 wysgene19@khu.ac.kr                       
-#316, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 <br>
 
 #### Research Interest
