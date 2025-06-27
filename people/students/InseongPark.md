@@ -11,7 +11,7 @@ subtitle: AMI Lab Family
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/InseongPark.jpg" width="200" height="265" align="left" hspace="20" />
 Undergraduate Intern (2025.5~)  
 
-Department of Software Convergence, Kyung Hee University         
+Department of Astronomy & Space Science, Kyung Hee University         
             
 **Contact**  
 dlstjd2410@khu.ac.kr                                       
