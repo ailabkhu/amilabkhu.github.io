@@ -7,18 +7,21 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
-- **[C52]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+- **[C53]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C51]** Towards Holistic Surgical Scene Graph                                                                                                                   
+- **[C52]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C50]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+- **[C51]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
+- **[C50]** Tecis: Text-enhanced Cross-modal Instrument Segmentation in Surgical Video                                                                                                                        
+**Enki Cho†**, **Hyeon Bae Kim†**, Jung Uk Kim\*, **Seong Tae Kim***           
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at ICIP_, 2025 (ALASKA)
 - **[J24]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
@@ -59,7 +62,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[C41]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
 **Su Hyeon Lim**, **Minkuk Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
-_International Conference on Image Processing Workshop (ICIPW)_, 2024 (Abu Dhabi)
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at ICIP_, 2024 (Abu Dhabi)
 - **[C40]** Resource-Efficient Medical Report Generation using Large Language Models                                      
 **Abdullah**, **Ameer Hamza**, **Seong Tae Kim***           
 _International Technical Conference on Circuits/Systems, Computers, and Communications_, 2024 (Okinawa)
