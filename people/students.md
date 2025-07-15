@@ -6,13 +6,12 @@ subtitle: AMI Lab Family
   
 #### PhD/MS-PhD students
 * [Enki Cho](students/EnkiCho.md) 
-* [Yong Hyun Ahn](students/YongHyunAhn.md) (Student Representative)                         
+* [Yong Hyun Ahn](students/YongHyunAhn.md)                        
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
 * [Minkuk Kim](students/MinKukKim.md)
-* [Hyeon Bae Kim](students/HyeonbaeKim.md)
+* [Hyeon Bae Kim](students/HyeonbaeKim.md) (Student Representative)            
 * [Ka Young Kim](students/KaYoungKim.md)
-* Rao Faizan
 * [Youngtae Kim](students/YoungtaeKim.md)
   
 #### MS students
