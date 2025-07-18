@@ -7,13 +7,13 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 
 *: Corresponding Author,  †: Co-first 
 - **[S54]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
-**Hyeon Bae Kim†**, **Eunki Cho†**, Jung Uk Kim*, **Seong Tae Kim***                                                                                                                 
-Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW), 2025 (Alaska)
+**Hyeon Bae Kim†**, **Eunki Cho†**, Jung Uk Kim\*, **Seong Tae Kim**\*                                                                                                                 
+Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)
 - **[S36]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
-**Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
+**Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S35]** Towards Holistic Surgical Scene Graph                                                                                                                   
-Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim***, Namkee Oh\*                         
+Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
 - **[S34]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
