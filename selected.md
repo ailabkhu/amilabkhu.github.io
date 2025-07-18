@@ -5,7 +5,7 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 ---
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
-*: Corresponding Author,  †: Co-first
+*: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
 - **[S37]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
