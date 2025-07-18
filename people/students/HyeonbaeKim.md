@@ -13,7 +13,7 @@ PhD Student (2025.3~)
 Master Student (2023.3~2025.2)      
 
 Department of Artificial Intelligence, Kyung Hee University         
-            
+**Student Representative**              
 
 **Contact**  
 hyeonbae.kim@khu.ac.kr                                                          
