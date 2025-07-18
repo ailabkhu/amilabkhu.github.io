@@ -25,20 +25,23 @@ hyeonbae.kim@khu.ac.kr
 * Explainable AI
 
 #### Publication
+- **[C7]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
+Hyeon Bae Kim, Eunki Cho (co-first), Jung Uk Kim, Seong Tae Kim                                                                                                                 
+Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW), 2025 (Alaska)
 - **[C6]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
-Ka Young Kim, **Hyeon Bae Kim**, Seong Tae Kim         
+Ka Young Kim, **Hyeon Bae Kim**, Seong Tae Kim                                           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C5]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning
-Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim*           
+- **[C5]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                                                                                                 
+Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 - **[C4]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
-**Hyeon Bae Kim**, Yong Hyun Ahn (co-first), Seong Tae Kim            
+**Hyeon Bae Kim**, Yong Hyun Ahn (co-first), Seong Tae Kim                                           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)
 - **[C3]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                            
 Su Hyeon Lim, Minkuk Kim, **Hyeon Bae Kim**, Seong Tae Kim           
 _Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
 - **[C2]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
-Yong Hyun Ahn, **Hyeon Bae Kim**, Seong Tae Kim            
+Yong Hyun Ahn, **Hyeon Bae Kim**, Seong Tae Kim                                                                                                                 
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim         

@@ -6,7 +6,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
 *: Corresponding Author,  †: Co-first 
-
+- **[S54]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
+**Hyeon Bae Kim†**, **Eunki Cho†**, Jung Uk Kim*, **Seong Tae Kim***                                                                                                                 
+Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW), 2025 (Alaska)
 - **[S36]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
