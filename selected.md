@@ -5,7 +5,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 ---
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
-*: Corresponding Author,  †: Co-first 
+*: Corresponding Author,  †: Co-first
+**Bold**: Member of Augmented Intelligence Lab.              
+
 - **[S54]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
 **Hyeon Bae Kim†**, **Eunki Cho†**, Jung Uk Kim\*, **Seong Tae Kim**\*                                                                                                                 
 Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)
