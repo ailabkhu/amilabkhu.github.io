@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Publications
 ---
-*: Corresponding Author, †: Joint first author                        
+*: Corresponding Author, †: Joint first author                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
