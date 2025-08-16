@@ -26,8 +26,8 @@ navbar-links:
     - Students: "people/students"
   Research: 
     - Selected Publications: "selected"
-  #  - Full Publications: "pub"
-   - Grant: "project"
+    - Full Publications: "pub"
+    - Grant: "project"
   Teaching: "teaching"
   Photos: "photo"
 
