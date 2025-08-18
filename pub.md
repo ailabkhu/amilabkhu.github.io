@@ -8,30 +8,36 @@ subtitle: Publications
 
 ### 2025
 
-- **[C53]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+- **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C52]** Towards Holistic Surgical Scene Graph                                                                                                                   
+- **[C54]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C51]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+- **[C53]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C52]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization                                                                                                                        
+Joohyun Chang†, Soyeon Hong†, Hyogun Lee†, Seong Jong Ha, Dongho Lee, **Seong Tae Kim***, Jinwoo Choi\*                              
+_British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)                            
 - **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
-- **[C50]** Tecis: Text-enhanced Cross-modal Instrument Segmentation in Surgical Video                                                                                                                        
+- **[C51]** Tecis: Text-enhanced Cross-modal Instrument Segmentation in Surgical Video                                                                                                                        
 **Enki Cho†**, **Hyeon Bae Kim†**, Jung Uk Kim\*, **Seong Tae Kim***           
 _Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at ICIP_, 2025 (ALASKA)
 - **[J24]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
-- **[C49]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
+- **[C50]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
 Min-Yeong Park†, Won-Jeong Lee†, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 - **[J23]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
+- **[C49]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation Generation                                                               
+**Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, **Seong Tae Kim***           
+_NTCIR Conference on Evaluation of Information Access Technologies_, 2025 (Tokyo)
 - **[C48]** PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition                                      
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\*, **Seong Tae Kim**\* and Jinwoo Choi\*           
 _Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR_, 2025 (Nashville)
