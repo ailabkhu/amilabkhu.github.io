@@ -8,15 +8,18 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- **[S36]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+- **[S37]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[S35]** Towards Holistic Surgical Scene Graph                                                                                                                   
+- **[S36]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[S34]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+- **[S35]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[S34]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization (**Oral**)                                                                                                                        
+Joohyun Chang†, Soyeon Hong†, Hyogun Lee†, Seong Jong Ha, Dongho Lee, **Seong Tae Kim***, Jinwoo Choi\*                              
+_British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)      
 - **[S33]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
@@ -62,42 +65,42 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 - **[SP19]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)                      
-- **[SP18]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
-Felix Buchert, Nassir Navab, **Seong Tae Kim***              
-_International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
-- **[SP17]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
+- **[SP18]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
 Junho Kim, Seongyeop Kim, **Seong Tae Kim**, Yong Man Ro                 
 _IEEE Transactions on Image Processing (**TIP**)_, 2022
-- **[SP16]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
+- **[SP17]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
 Yang Zhang†, Ashkan Khakzar†, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
-- **[SP15]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
+- **[SP16]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
 **Seong Tae Kim***, Leili Goli†, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP14]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
+- **[SP15]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
 Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, Soroosh Baselizadeh, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP13]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
+- **[SP14]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
 Ashkan Khakzar†, Yang Zhang†, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP12]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
+- **[SP13]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP11]** Neural Response Interpretation through the Lens of Critical Pathways           
+- **[SP12]** Neural Response Interpretation through the Lens of Critical Pathways           
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
-- **[SP10]**  CUA Loss: Class Uncertainty-Aware Gradient Modulation for Robust Object Detection                      
+- **[SP11]**  CUA Loss: Class Uncertainty-Aware Gradient Modulation for Robust Object Detection                      
 Jung Uk Kim, **Seong Tae Kim**, Hong Joo Lee, Sangmin Lee, Yong Man Ro                 
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2021
 
 ### Before 2021
-- **[SP9]**  Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next "Level"                      
+- **[SP10]**  Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next "Level"                      
 Maria Tirindelli†, Maria Victorova†, Javier Esteban, **Seong Tae Kim**, David Navarro-Alarcon, Yong Ping Zheng, Nassir Navab                 
 _IEEE Robotics and Automation Letters (**RA-L**)_, 2020                                
 _Presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)_, 2020 (Virtual)
-- **[SP8]** TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks           
+- **[SP9]** TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks           
 Tobias Czempiel, Magdalini Paschali, Matthias Keicher, Walter Simson, Hubertus Feussner, **Seong Tae Kim**, Nassir Navab                           
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2020 (Virtual)
+- **[C8]** Robust Ensemble Model Training via Random Layer Sampling Against Adversarial Attack           
+Hakmin Lee, Hong Joo Lee, **Seong Tae Kim**, Yong Man Ro                           
+_British Machine Vision Conference (**BMVC**) _, 2020 (Virtual)
 - **[SP7]**  Multimodal Facial Biometrics Recognition: Dual-stream Convolutional Neural Networks with Multi-feature Fusion Layers                     
 Leslie Ching Ow Tiong, **Seong Tae Kim**, Yong Man Ro                                 
 _Image and Vision Computing  (**ImaVis**)_, 2020
