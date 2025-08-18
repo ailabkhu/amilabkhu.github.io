@@ -17,9 +17,9 @@ _International Conference On Medical Image Computing & Computer Assisted Interve
 - **[C53]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C52]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization                                                                                                                        
+- **[C52]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization (**Oral**)                                                                                                                        
 Joohyun Chang†, Soyeon Hong†, Hyogun Lee†, Seong Jong Ha, Dongho Lee, **Seong Tae Kim***, Jinwoo Choi\*                              
-_British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)                            
+_British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)                           
 - **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
@@ -234,7 +234,7 @@ _arXiv:1705.11077_, 2017
 - **[J4]**  Latent feature representation with depth directional long-term recurrent learning for breast masses in digital breast tomosynthesis             
 Dae Hoe Kim, **Seong Tae Kim**, Jung Min Chang (Seoul National University Hospital), Yong Man Ro                                 
 _Physics in Medicine and Biology (**PMB**)_, 2017
-- **[C12]**  Multi-scale facial scanning via spatial LSTM for latent facial feature representation          
+- **[C12]**  Multi-scale facial scanning via spatial LSTM for latent facial feature representation (**Oral**)          
 **Seong Tae Kim**, Yeoreum Choi, and Yong Man Ro                           
 _International Conference of the Biometrics Special Interest Group (**BIOSIG**)_, 2017 (Darmstadt)
 - **[C11]**  Adaptive attention fusion network for visual question answering         
