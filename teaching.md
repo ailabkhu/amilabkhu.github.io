@@ -9,7 +9,7 @@ title: Teaching
 - AI3008 Explainable and Reliable AI (Undergraduate)
 - SLS1006 Major Exploration2 (Undergraduate)
   
-- #### Spring
+#### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - CSE405 Graduation Project (Undergraduate)
 - AI7001 AI and Ethics (Graduate)
