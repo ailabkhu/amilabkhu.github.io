@@ -30,7 +30,8 @@ st.kim@khu.ac.kr
 * BS, School of Electrical Engineering, Korea University (2012)  
   
 #### Work Experience
-* Chair of Department of Artificial Intelligence, Kyung Hee University (2025.2~)
+* Head of School of Computiong, Kyung Hee University (2025.9~)
+* Department Chair of Artificial Intelligence, Kyung Hee University (2025.2~)
 * Assistant Professor, Department of Computer Science and Engineering, Kyung Hee University (2021.3~)
 * Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
   - Advisor: [Prof. Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ)
