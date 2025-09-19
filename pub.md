@@ -7,7 +7,9 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
-
+- **[C56]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition                                                                                                                                         
+Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
+_Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
 - **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
