@@ -8,7 +8,7 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- **[S38]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition                                                                                                                                         
+- **[S38]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition (**Spotlight**)                                                                                                                                         
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
 - **[S37]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
