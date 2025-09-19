@@ -133,6 +133,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Contrats!
 - Aug. 2025 Prof. Seong Tae Kim gave a talk at Workshop on Developing Globally Reliable AI systems for Automated Surgical Procedures in Munich
 - Jun. 2025 Three papers got accepted to **MICCAI 2025**! Congrats Ka Young, Enki, Hyeon Bae!
 - May 2025 One paper got accepted to **Neural Networks (IF: 6.0, JCR IF Rank 10.5%)**! Congrats Soyoun!
