@@ -11,7 +11,7 @@ subtitle: Publications
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
 - **[J26]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                                                                                              
-**Soyoun Won†**, **Yong Hyun Ahn†**, **Hyeon Bae Kim†**, Hong Joo Lee, **Seong Tae Kim***           
+**Soyoun Won†**, **Yong Hyun Ahn†**, **Hyeon Bae Kim†**, Hong Joo Lee\*, **Seong Tae Kim***           
 _Image and Vision Computing_, 2025
 - **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
