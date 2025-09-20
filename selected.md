@@ -8,9 +8,12 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- **[S38]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition (**Spotlight**)                                                                                                                                         
+- **[S39]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition (**Spotlight**)                                                                                                                                         
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
+- **[S38]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                                                                                              
+**Soyoun Won†**, **Yong Hyun Ahn†**, **Hyeon Bae Kim†**, Hong Joo Lee\*, **Seong Tae Kim***           
+_Image and Vision Computing_, 2025
 - **[S37]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
