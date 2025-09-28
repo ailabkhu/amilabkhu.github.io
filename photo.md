@@ -19,6 +19,9 @@ subtitle: Life in AMI Lab
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_08.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_09.jpg" width="700" align="center"/>
 
+#### ICIP2025, September 2025 
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ICIPW2025.jpg" width="700" align="center"/>
+
 
 #### Gathering, May 2025    
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/202505_1.jpg" width="700" align="center"/>
