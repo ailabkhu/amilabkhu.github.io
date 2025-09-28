@@ -9,15 +9,15 @@ subtitle: Life in AMI Lab
 ## 2025
 
 #### MICCAI2025, September 2025    
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_07.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_06.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_01.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_04.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_03.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_02.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_05.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_08.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/MICCAI2025_09.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_07.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_06.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_01.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_04.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_03.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_02.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_05.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_08.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/amilabkhu.github.io/master/img/MICCAI2025_09.jpg" width="700" align="center"/>
 
 
 #### Gathering, May 2025    
