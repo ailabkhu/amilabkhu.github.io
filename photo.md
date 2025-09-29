@@ -8,6 +8,10 @@ subtitle: Life in AMI Lab
 
 ## 2025
 
+#### AMI-CAMP Joint Workshop, September 2025
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop1.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop2.jpg" width="700" align="center"/>
+
 #### MICCAI2025, September 2025            
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_07.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_06.jpg" width="700" align="center"/>
