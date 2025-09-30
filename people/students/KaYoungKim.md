@@ -29,6 +29,7 @@ uwrgoy7584@khu.ac.kr
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                       
 <a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F; font-weight:bold;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F; font-weight:bold;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F; font-weight:bold;">Project Page</a>
 <br>
+<br>
 - **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin, Enki Cho (co-first), **Ka Young Kim (co-first)**, Jung Yong Kim, Seong Tae Kim, Namkee Oh                  
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                             
