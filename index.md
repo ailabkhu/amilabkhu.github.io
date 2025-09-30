@@ -8,6 +8,16 @@ published: true
 
 <div class="slider-container" style="position: relative; overflow: hidden;">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop1.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_07.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_01.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_04.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_03.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_02.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_08.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_09.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ICIPW2025.jpg">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/202505_1.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_2.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/AAAI25_4.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ICIP_2024.jpg">
