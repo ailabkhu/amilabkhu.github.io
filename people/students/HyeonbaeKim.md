@@ -25,6 +25,9 @@ hyeonbae.kim@khu.ac.kr
 * Explainable AI
 
 #### Publication
+- **[J1]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
+Soyoun Won, **Hyeon Bae Kim (Co-first)**, Yong Hyun Ahn (Co-first), Hong Joo Lee, Seong Tae Kim                                          
+Image and Vision Computing(**ImaVis**), 2025                                                                                              
 - **[C7]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
 **Hyeon Bae Kim**, Eunki Cho (co-first), Jung Uk Kim, Seong Tae Kim                                                                                                                 
 Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)
