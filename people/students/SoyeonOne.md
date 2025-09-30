@@ -20,6 +20,9 @@ Department of Computer Science and Engineering, Kyung Hee University
 <br>
 
 #### Publication
+- **[J1]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
+**Soyoun Won**, Hyeon Bae Kim (Co-first), Yong Hyun Ahn (Co-first), Hong Joo Lee, Seong Tae Kim                                          
+Image and Vision Computing(**ImaVis**), 2025                                   
 - **[C2]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, Seong Tae Kim           
 _Neural Networks_, 2025
