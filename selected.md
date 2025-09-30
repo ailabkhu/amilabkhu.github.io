@@ -26,7 +26,7 @@ _Image and Vision Computing_, 2025
 - **[S37]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                      
-<a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F; font-weight:bold;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F; font-weight:bold;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F font-weight:bold;">Project Page</a>            
+<a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F; font-weight:bold;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F; font-weight:bold;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F; font-weight:bold;">Project Page</a>            
 - **[S36]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                             
