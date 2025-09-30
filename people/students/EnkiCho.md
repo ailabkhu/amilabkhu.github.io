@@ -16,7 +16,7 @@ Department of Artificial Intelligence, Kyung Hee University
     
 
 **Contact**  
-cekkec@khu.ac.kr
+cekkec@khu.ac.kr                                                        
 [Personal Homepage](https://cekkec.github.io/)                  
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 <br>
