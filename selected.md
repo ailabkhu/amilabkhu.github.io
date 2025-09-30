@@ -7,7 +7,7 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 
 div.row ul li {
   margin-bottom: 16px;
-  margin-top: 16px;
+  margin-top: 24px;
 }
 
 </style>
