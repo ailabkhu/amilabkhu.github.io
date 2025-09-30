@@ -23,7 +23,7 @@ subtitle: AMI Lab Family
 #### Undergraduate Interns
 * [Heedong Kim](students/HeedongKim.md)
 * [JeongIn Bae](students/JeongInBae.md)
-* [ChiYoung Song](students/ChiYoungSong.md)
+* [Chi Young Song](students/ChiYoungSong.md)
 
 
 #### Alumni

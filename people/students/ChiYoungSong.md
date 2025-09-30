@@ -6,7 +6,7 @@ subtitle: AMI Lab Family
 
 <hr>
 
-#### JeongIn Bae
+#### Chi Young Song
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/ChiYoungSong.jpg" width="200" height="265" align="left" hspace="20" />         
 Undergraduate Intern (2025.7~)       
