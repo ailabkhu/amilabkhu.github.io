@@ -13,9 +13,10 @@ _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San D
 - **[J26]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                                                                                              
 **Soyoun Won†**, **Hyeon Bae Kim†**, **Yong Hyun Ahn†**, Hong Joo Lee\*, **Seong Tae Kim***           
 _Image and Vision Computing_, 2025
-- **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition [Paper](https://arxiv.org/pdf/2507.15418v1){:target="_blank"} [Poster](https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf){:target="_blank"} [Project Page](https://ailab-kyunghee.github.io/SurgX/){:target="_blank"}                                                                                                                 
+- **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                  
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
-_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                     
+[[**Paper**](https://arxiv.org/pdf/2507.15418v1){:target="_blank"}] [[**Poster**](https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf){:target="_blank"}] [[**Project Page**](https://ailab-kyunghee.github.io/SurgX/){:target="_blank"}]
 - **[C54]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
