@@ -13,7 +13,6 @@ PhD Student (2024.3~)
 Master Student (2022.3~2024.2)       
 
 Department of Artificial Intelligence, Kyung Hee University         
-**Student Representative**        
 
 **Contact**  
 yhahn@khu.ac.kr                       
