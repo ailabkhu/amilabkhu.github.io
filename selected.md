@@ -30,7 +30,7 @@ _International Conference On Medical Image Computing & Computer Assisted Interve
 - **[S36]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                             
-[[**Paper**](https://arxiv.org/pdf/2507.15541){:target="_blank"}] [[**Poster**](https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf){:target="_blank"}] [[**Project Page**](https://ailab-kyunghee.github.io/SSG-Com/){:target="_blank"}]                             
+[ <a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a> ]                                                    
 - **[S35]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
