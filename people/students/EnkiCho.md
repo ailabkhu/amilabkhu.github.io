@@ -30,7 +30,7 @@ cekkec@khu.ac.kr
 #### Publication
 - **[C2]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
 Hyeon Bae Kim, **Eunki Cho (co-first)**, Jung Uk Kim, Seong Tae Kim                                                                                                                 
-Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)                            
+Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)
 <br><br>
 - **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin, **Enki Cho (co-first)**, Ka Young Kim (co-first), Jung Yong Kim, Seong Tae Kim, Namkee Oh                         
