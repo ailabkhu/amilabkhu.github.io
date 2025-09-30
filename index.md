@@ -128,11 +128,6 @@ published: true
   }
 }
 
-div.row ul li {
-  margin-bottom: 16px;
-  margin-top: 16px;
-}
-
 </style>
 
 

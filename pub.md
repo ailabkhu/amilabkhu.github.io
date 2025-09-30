@@ -3,6 +3,16 @@ layout: page
 title: Research
 subtitle: Publications
 ---
+
+<style>
+
+div.row ul li {
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+</style>
+
 *: Corresponding Author, †: Joint first author                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
