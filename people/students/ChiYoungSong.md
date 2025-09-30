@@ -15,7 +15,8 @@ Department of Computer Science and Engineering, Kyung Hee University
             
 **Contact**  
 cosmos88@khu.ac.kr                    
-#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea
+
 <br>
 
 #### Research Interest
