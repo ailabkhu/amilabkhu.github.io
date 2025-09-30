@@ -133,10 +133,14 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Congrats!
+- Sep. 2025 One paper got accepted to **Image and Vision Computing (IF: 4.2, JCR IF Rank 16.8%)**! Congrats!
+- Aug. 2025 Prof. Seong Tae Kim gave a talk at Workshop on Developing Globally Reliable AI systems for Automated Surgical Procedures in Munich
 - Jun. 2025 Three papers got accepted to **MICCAI 2025**! Congrats Ka Young, Enki, Hyeon Bae!
 - May 2025 One paper got accepted to **Neural Networks (IF: 6.0, JCR IF Rank 10.5%)**! Congrats Soyoun!
 - May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Enki, Soyoun, Oh Sung!
 - May 2025 One paper got accepted to **ICML 2025**! Congrats!
+- Apr. 2025 Prof. Seong Tae Kim delivered an invited talk at the [POSTECH CSE/GSAI Seminar](https://ai.postech.ac.kr/seminar_info/view/page/2/id/634#u)
 - Mar. 2025 Enki is at New York University for six months as a visiting scholar (Global AI Frontier Lab.)
 - Feb. 2025 One MICCAI 2025 workshop got accepted. Prof. Seong Tae Kim will serve as Co-Chair of [GRAIL (Workshop on GRaphs in biomedicAl Image anaLysis)](https://grail-miccai.github.io/) 
 - Dec. 2024 One paper got accepted to **IEEE Transactions on Circuits and Systems for Video Technology (IF: 8.3, JCR IF Rank 5.5%)**! Congrats Enki!
@@ -152,4 +156,4 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 - Nov. 2023 One paper got accepted to **Neural Networks (IF: 7.8, JCR IF Rank 9.5%)**!         
 - Feb. 2023 One paper got accepted to **CVPR 2023**! Congrats Yong Hyun!
 
-#Explainable AI #Reliable AI #Responsible AI #Multimodal AI
+#Explainable AI #Reliable AI #Responsible AI #Multimodal AI #Surgical AI

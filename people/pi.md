@@ -30,7 +30,8 @@ st.kim@khu.ac.kr
 * BS, School of Electrical Engineering, Korea University (2012)  
   
 #### Work Experience
-* Chair of Department of Artificial Intelligence, Kyung Hee University (2025.2~)
+* Head of School of Computing, Kyung Hee University (2025.9~)
+* Department Chair of Artificial Intelligence, Kyung Hee University (2025.2~)
 * Assistant Professor, Department of Computer Science and Engineering, Kyung Hee University (2021.3~)
 * Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
   - Advisor: [Prof. Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ)
@@ -40,11 +41,12 @@ st.kim@khu.ac.kr
 #### Professional Services
 * Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _GRAIL 2025 of MICCAI (Co-Chair)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
-* Area Chair - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_ 
-* Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE Trans. Cybernetics_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, Pattern Recognition, etc. 
+* Area Chair / Senior Program Committee - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_, AAAI 2026 AI Alignment Track
+* Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE 
+Transactions on Pattern Analysis and Machine Intelligence_, _IEEE Transactions on Neural Networks and Learning Systems_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, _IEEE Transactions on Sustainable Computing_, _IEEE Transactions on Automation Science and Engineering_, _IEEE Journal of Biomedical and Health Informatics_, _IEEE Transactions on Mobile Computing_, _IEEE Transactions on Big Data_, _IEEE Transactions on Industrial Informatics_, Pattern Recognition, etc. 
 
 #### Awards and Honors
-* PhaKIR Award (1st place in the category surgical instrument segmentation), MICCAI Endoscopic Vision Challenge (2024)
+* PhaKIR Award, MICCAI Endoscopic Vision Challenge (2024)
 * Top 25% Program Committee, AAAI(2021)
 * Research Credit Award, Google Cloud (2019-2021)
 * Outstanding Reviewer Award, BMVC (2020)

@@ -7,33 +7,42 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
-- **[C54]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
-**Hyeon Bae Kim†**, **Eunki Cho†**, Jung Uk Kim\*, **Seong Tae Kim**\*                                                                                                                 
-Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)
-- **[C53]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
+- **[C56]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition                                                                                                                                         
+Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
+_Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
+- **[J26]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                                                                                              
+**Soyoun Won†**, **Hyeon Bae Kim†**, **Yong Hyun Ahn†**, Hong Joo Lee\*, **Seong Tae Kim***           
+_Image and Vision Computing_, 2025
+- **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C52]** Towards Holistic Surgical Scene Graph                                                                                                                   
+- **[C54]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
-- **[C51]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+- **[C53]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C52]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization (**Oral**)                                                                                                                        
+Joohyun Chang†, Soyeon Hong†, Hyogun Lee†, Seong Jong Ha, Dongho Lee, **Seong Tae Kim***, Jinwoo Choi\*                              
+_British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)                           
 - **[J25]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, **Seong Tae Kim***           
 _Neural Networks_, 2025
-- **[C50]** Tecis: Text-enhanced Cross-modal Instrument Segmentation in Surgical Video                                                                                                                        
+- **[C51]** Tecis: Text-enhanced Cross-modal Instrument Segmentation in Surgical Video                                                                                                                        
 **Enki Cho†**, **Hyeon Bae Kim†**, Jung Uk Kim\*, **Seong Tae Kim***           
 _Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at ICIP_, 2025 (ALASKA)
 - **[J24]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, **Soyoun Won**, **Oh Sung Choo**, **Seong Tae Kim***           
 _IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
-- **[C49]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
+- **[C50]** When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series                                                                       
 Min-Yeong Park†, Won-Jeong Lee†, **Seong Tae Kim***, Gyeong-Moon Park\*           
 _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 - **[J23]** Spatial Mask-based Adaptive Robust Training for Video Object Segmentation with Noisy Labels                                                                                  
 **Enki Cho**, Jung Uk Kim\*, **Seong Tae Kim***           
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
+- **[C49]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation Generation                                                               
+**Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, **Seong Tae Kim***           
+_NTCIR Conference on Evaluation of Information Access Technologies_, 2025 (Tokyo)
 - **[C48]** PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition                                      
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\*, **Seong Tae Kim**\* and Jinwoo Choi\*           
 _Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR_, 2025 (Nashville)
@@ -230,7 +239,7 @@ _arXiv:1705.11077_, 2017
 - **[J4]**  Latent feature representation with depth directional long-term recurrent learning for breast masses in digital breast tomosynthesis             
 Dae Hoe Kim, **Seong Tae Kim**, Jung Min Chang (Seoul National University Hospital), Yong Man Ro                                 
 _Physics in Medicine and Biology (**PMB**)_, 2017
-- **[C12]**  Multi-scale facial scanning via spatial LSTM for latent facial feature representation          
+- **[C12]**  Multi-scale facial scanning via spatial LSTM for latent facial feature representation (**Oral**)          
 **Seong Tae Kim**, Yeoreum Choi, and Yong Man Ro                           
 _International Conference of the Biometrics Special Interest Group (**BIOSIG**)_, 2017 (Darmstadt)
 - **[C11]**  Adaptive attention fusion network for visual question answering         
