@@ -26,6 +26,9 @@ yhahn@khu.ac.kr
 * Uncertainty Estimation
 
 #### Publication
+- **[J1]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
+Soyoun Won, Hyeon Bae Kim (Co-first), **Yong Hyun Ahn (Co-first)**, Hong Joo Lee, Seong Tae Kim                                          
+Image and Vision Computing(**ImaVis**), 2025                                   
 - **[C4]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
 Ameer Hamza, Abdullah, **Yong Hyun Ahn**, Sungyoung Lee, Seong Tae Kim          
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
