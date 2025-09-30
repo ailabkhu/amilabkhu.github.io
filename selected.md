@@ -3,6 +3,15 @@ layout: page
 title: Research
 subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 ---
+<style>
+
+div.row ul li {
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+</style>
+
 [Full publication list](https://ami.khu.ac.kr/pub/)
 
 *: Corresponding Author,  †: Co-first                                                                                                                 
@@ -16,10 +25,12 @@ _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San D
 _Image and Vision Computing_, 2025
 - **[S37]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
-_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                      
+[[**Paper**](https://arxiv.org/pdf/2507.15418v1){:target="_blank"}] [[**Poster**](https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf){:target="_blank"}] [[**Project Page**](https://ailab-kyunghee.github.io/SurgX/){:target="_blank"}]                             
 - **[S36]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
-_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                             
+[[**Paper**](https://arxiv.org/pdf/2507.15541){:target="_blank"}] [[**Poster**](https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf){:target="_blank"}] [[**Project Page**](https://ailab-kyunghee.github.io/SSG-Com/){:target="_blank"}]                             
 - **[S35]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
