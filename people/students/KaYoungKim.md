@@ -27,10 +27,10 @@ uwrgoy7584@khu.ac.kr
 - **[C2]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                 
 **Ka Young Kim**, Hyeon Bae Kim, Seong Tae Kim      
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                       
-<a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F;">Project Page</a>
+<a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SurgX" target="_blank" style="color:#0D326F;">GitHub</a>
 <br>
 <br>
 - **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin, Enki Cho (co-first), **Ka Young Kim (co-first)**, Jung Yong Kim, Seong Tae Kim, Namkee Oh                  
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                             
-<a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a>
+<a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SSG-Com" target="_blank" style="color:#0D326F;">GitHub</a>

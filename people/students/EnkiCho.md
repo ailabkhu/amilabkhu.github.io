@@ -35,7 +35,7 @@ Integrating Image Processing with Large-Scale Vision/Language Models for Advance
 - **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin, **Enki Cho (co-first)**, Ka Young Kim (co-first), Jung Yong Kim, Seong Tae Kim, Namkee Oh                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                       
-<a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a>
+<a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SSG-Com" target="_blank" style="color:#0D326F;">GitHub</a>
 <br><br>
 - **[J3]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
 **Enki Cho**, Soyoun Won, Oh Sung Choo, Seong Tae Kim           
