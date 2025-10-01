@@ -35,7 +35,7 @@ _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
 <br>
 - **[C2]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
 Su Hyeon Lim, **Minkuk Kim**, Hyeon Bae Kim, Seong Tae Kim           
-_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)                             
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
 <br>
 <br>
 - **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
