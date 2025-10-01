@@ -29,13 +29,21 @@ asdjklfgh97@khu.ac.kr
 #### Publication
 - **[C3]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, Hyeon Bae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim           
-_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)                                                   
+<a href="https://arxiv.org/pdf/2412.14585" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://github.com/user-attachments/files/22630107/AAAI25_poster_9085.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://github.com/ailab-kyunghee/HiCM2-DVC" target="_blank" style="color:#0D326F;">GitHub</a>
+<br>
+<br>
 - **[C2]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
 Su Hyeon Lim, **Minkuk Kim**, Hyeon Bae Kim, Seong Tae Kim           
-_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)               
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)                             
+<br>
+<br>
 - **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 **Minkuk Kim**, Hyeon Bae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim           
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)                                                   
+<a href="https://arxiv.org/pdf/2404.07610" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://github.com/user-attachments/files/22630104/2024_CVPR_Poster_final_.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://github.com/ailab-kyunghee/CM2_DVC" target="_blank" style="color:#0D326F;">GitHub</a>
+<br>
+<br>
 - **[J1]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 Enki Cho, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, Seong Tae Kim            
 _Image and Vision Computing_, 2023
