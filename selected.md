@@ -51,7 +51,8 @@ _International Conference on Machine Learning (**ICML**)_, 2025 (Vancouver)
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2025
 - **[S29]** HiCM<sup>2</sup>: Hierarchical Compact Memory Modeling for Dense Video Captioning                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
-_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)                                       
+<a href="https://arxiv.org/pdf/2412.14585" target="_blank" style="color:#0D326F;">Paper</a> | <a href="/assets/pdf/HiCM2_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://github.com/ailab-kyunghee/HiCM2-DVC" target="_blank" style="color:#0D326F;">GitHub</a>
 - **[S28]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                      
 **Ameer Hamza**, **Abdullah**, **Yong Hyun Ahn**, Sungyoung Lee, **Seong Tae Kim***           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)
@@ -69,7 +70,8 @@ _European Conference on Computer Vision (**ECCV**)_, 2024 (Milan)
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[SP23]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)                                            
+<a href="https://arxiv.org/pdf/2404.07610" target="_blank" style="color:#0D326F;">Paper</a> | <a href="/assets/pdf/CM2_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://github.com/ailab-kyunghee/CM2_DVC" target="_blank" style="color:#0D326F;">GitHub</a>
 - **[SP22]** OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning                                                 
 Chu Myaet Thwal, Minh N. H. Nguyen, Ye Lin Tun, **Seong Tae Kim**, My T. Thai, Choong Seon Hong            
 _Neural Networks_, 2024
