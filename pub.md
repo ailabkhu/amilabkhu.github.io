@@ -327,7 +327,7 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [PA4] 김성태, 안용현, 김현배. 판단 근거의 설명이 가능한 기계 학습 모델을 이용한 분류 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2024-0133344)
 - [PA3] 김성태, 원소연. 신경망 모델의 해석성 측정 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2024-0022113)
 - [PA2] 김성태, 김정욱, 김민국, 조은기. 심층 신경망의 불확실성 예측 장치 및 방법 (10-2023-0110754)                                  
-- [PA1] Method for detecting object based on auditory information and computing device for executing the same (10-2023-0001162)
+- [PA1] 김정욱, 김성태. 청각 정보 기반의 객체 검출 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2023-0001162)          
 
 
 
