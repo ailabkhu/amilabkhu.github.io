@@ -300,6 +300,8 @@ _International Conference on Digital Signal Processing_, 2014 (Hong Kong)
 _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI**)_, 2014 (Valencia)
 
 ### Patents (Registered)
+- [P15] 김성태, 김현배, 김민국. 비디오 캡션 정보 제공 방법 및 이를 위한 전자 장치 (KR 10-2823410)                          
+
 - [P14] Interactive computer-aided diagnosis method for lesion diagnosis and the system thereof (KR 10-2281988)                                
 - [P13] Interpreting method for diagnostic decision of deep network using breast imaging-reporting and data system and the system thereof (KR 10-2223255)                                                        
 - [P12] Method for interpreting visual evidence according to breast mass characteristics and the system thereof (KR 10-2216279)                                
@@ -316,15 +318,15 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
 ### Patents (Application)                       
-- [PA10] Method and apparatus for generating contrast-enhanced computed tomography images via diffusion (10-2025-0065910)                                
-- [PA9] Method and Systems for natural language explanation using knowledge graph augmented generation (10-2025-0039856)                                
-- [PA8] Method for generating conceptual dataset to explain classification model and computing device for performing the same (10-2025-0027669)
-- [PA7] Apparatus and method for diagnostic assistance based on artificial intelligence processing for radiological images (10-2024-0154220)                                   
-- [PA6] Method for generating conceptual dataset to explain image classification model and computing device for performing the same (10-2024-0146164)                                
-- [PA5] Classification method using machine learning model that can explain the basis of judgment and computing device for performing the same (10-2024-0133344)
-- [PA4] Method of providing information of video caption and electronic apparatus therefor (10-2024-0130084)                          
-- [PA3] Method for measuring interpretability of neural network model and computing device for performing the same (10-2024-0022113)
-- [PA2] Apparatus and method for predicting uncertainty of deepneural network (10-2023-0110754)                                  
+- [PA10] 김성태, 박진경, 김가영. 확산 모델 기반 3차원 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0148991)
+- [PA9] 김성태, 박진경, 김가영. 확산모델 기반 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0065910)                                
+- [PA8] 김성태, 안용현, Ameer Hamza, Abduallh. 지식그래프 기반 검색 증강 생성 기법을 활용한 흉부 병리 자연어 설명 생성 방법 및 시스템 (10-2025-0039856)                                
+- [PA7] 김성태, 안용현, 김현배. 학습된 개념을 매칭한 세그먼트 데이터 확보 기술 (10-2025-0027669)
+- [PA6] 이성민, 김성태. 방사선 이미지의 인공지능 처리 기반 진단 보조 장치 및 방법 (10-2024-0154220)                                   
+- [PA5] 김성태, 안용현, 김현배. 이미지 분류 모델을 설명하기 위한 개념 데이터 셋을 생성하는 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2024-0146164)                                
+- [PA4] 김성태, 안용현, 김현배. 판단 근거의 설명이 가능한 기계 학습 모델을 이용한 분류 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2024-0133344)
+- [PA3] 김성태, 원소연. 신경망 모델의 해석성 측정 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2024-0022113)
+- [PA2] 김성태, 김정욱, 김민국, 조은기. 심층 신경망의 불확실성 예측 장치 및 방법 (10-2023-0110754)                                  
 - [PA1] Method for detecting object based on auditory information and computing device for executing the same (10-2023-0001162)
 
 
