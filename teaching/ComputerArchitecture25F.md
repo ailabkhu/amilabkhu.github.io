@@ -8,6 +8,9 @@ subtitle: KHULectures
 
 #### Computer Architecture (2025-Fall)
 
+#### Course Instructor
+[Prof. Seong Tae Kim](https://ami.khu.ac.kr/people/pi.md)
+
 #### Time & Location
 Tue. 16:30-17:45, Thu. 16:30-17:45 @ College of Electronics Information, B07
 
@@ -47,9 +50,9 @@ The final grade will be determined according to the following percentage breakdo
 * Attendance: 10%
 
 #### Teaching Assistant
-[Yong Hyun Ahn](students/YongHyunAhn.md), [Hyeon Bae Kim](students/HyeonbaeKim.md)
+[Yong Hyun Ahn](https://ami.khu.ac.kr/people/students/YongHyunAhn.md), [Hyeon Bae Kim](https://ami.khu.ac.kr/people/students/HyeonbaeKim.md)
 
 #### Mentor
-[Heedong Kim](students/HeedongKim.md)
+[Heedong Kim](https://ami.khu.ac.kr/people/students/HeedongKim.md)
 
 <hr>
