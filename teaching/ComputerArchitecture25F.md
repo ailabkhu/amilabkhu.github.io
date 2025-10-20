@@ -50,9 +50,9 @@ The final grade will be determined according to the following percentage breakdo
 * Attendance: 10%
 
 #### Teaching Assistant
-[Yong Hyun Ahn](https://ami.khu.ac.kr/people/students/YongHyunAhn.md), [Hyeon Bae Kim](https://ami.khu.ac.kr/people/students/HyeonbaeKim.md)
+[Yong Hyun Ahn](https://ami.khu.ac.kr/people/students/YongHyunAhn), [Hyeon Bae Kim](https://ami.khu.ac.kr/people/students/HyeonbaeKim)
 
 #### Mentor
-[Heedong Kim](https://ami.khu.ac.kr/people/students/HeedongKim.md)
+[Heedong Kim](https://ami.khu.ac.kr/people/students/HeedongKim)
 
 <hr>
