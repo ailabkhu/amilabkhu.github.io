@@ -5,7 +5,7 @@ title: Teaching
 
 ### 2025
 #### Fall
-- CSE203 Computer Architecture (Undergraduate) 
+- [CSE203 Computer Architecture (Undergraduate)](https://ami.khu.ac.kr/teaching/ComputerArchitecture25F/) 
 - AI3008 Explainable and Reliable AI (Undergraduate)
 - SLS1006 Major Exploration2 (Undergraduate)
   
