@@ -8,7 +8,7 @@ subtitle: KHULectures
 
 #### Computer Architecture (2025-Fall)
 
-#### Time \& Location
+#### Time & Location
 Tue. 16:30-17:45, Thu. 16:30-17:45 @ College of Electronics Information, B07
 
 #### Course Description
@@ -46,5 +46,10 @@ The final grade will be determined according to the following percentage breakdo
 * Assigment: 10%
 * Attendance: 10%
 
+#### Teaching Assistant
+[Yong Hyun Ahn](students/YongHyunAhn.md), [Hyeon Bae Kim](students/HyeonbaeKim.md)
+
+#### Mentor
+[Heedong Kim](students/HeedongKim.md)
 
 <hr>
