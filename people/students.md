@@ -31,7 +31,7 @@ subtitle: AMI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md) (MS 2024), PhD candidate at KHU AMILab
 * [Minkuk Kim](students/MinKukKim.md) (MS 2024), PhD candidate at KHU AMILab
 * [Soyoun Won](students/SoyeonOne.md) (MS 2024), PhD candidate at University of Melbourne
-* [Abdullah](students/Abdullah.md) (MS 2025)
+* [Abdullah](students/Abdullah.md) (MS 2025), PhD candidate at KHU CVLab
 * Yebin Ji (MS 2025)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (MS 2025), PhD candidate at KHU AMILab
 
