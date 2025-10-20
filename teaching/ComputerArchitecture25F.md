@@ -8,9 +8,12 @@ subtitle: KHULectures
 
 #### Computer Architecture (2025-Fall)
 
-#### Time \& Location: Tue. 16:30-17:45, Thu. 16:30-17:45 @ College of Electronics Information, B07
+#### Time \& Location
+Tue. 16:30-17:45, Thu. 16:30-17:45 @ College of Electronics Information, B07
 
-#### Course Description: This course will provide lectures on traditional computer architectures. In particular, Computer Organization, Performance, Instruction Set Architecture, MIPS Processor, Pipelining, Superscalar, Multithreading, SIMD Processor, Cache, and Virtual Memory
+#### Course Description
+This course will provide lectures on traditional computer architectures. In particular, Computer Organization, Performance, Instruction Set Architecture, MIPS Processor, Pipelining, Superscalar, Multithreading, SIMD Processor, Cache, and Virtual Memory
+
 #### Objectives
 * To learn traditional CPU (Central Processing Unit) architecture applied for the state-of-the-art computer systems                    
 * To learn how the programming language is translated to machine language                    
@@ -38,10 +41,10 @@ subtitle: KHULectures
 #### Evaluation
 
 The final grade will be determined according to the following percentage breakdown.
-* Midterm: 40\%                                 
-* Final-Exam: 40\%                                 
-* Assigment: 10\%
-* Attendance: 10\%
+* Midterm: 40%                                 
+* Final-Exam: 40%                                 
+* Assigment: 10%
+* Attendance: 10%
 
 
 <hr>
