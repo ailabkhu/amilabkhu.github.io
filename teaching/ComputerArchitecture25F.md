@@ -9,7 +9,7 @@ subtitle: KHULectures
 #### Computer Architecture (2025-Fall)
 
 #### Course Instructor
-[Prof. Seong Tae Kim](https://ami.khu.ac.kr/people/pi.md)
+[Prof. Seong Tae Kim](https://ami.khu.ac.kr/people/pi)
 
 #### Time & Location
 Tue. 16:30-17:45, Thu. 16:30-17:45 @ College of Electronics Information, B07
