@@ -6,12 +6,15 @@ subtitle: KHULectures
 
 <hr>
 
-#### Computer Architecture (2025-Spring)
+#### Computer Architecture (2025-Fall)
 
-#### Time \& Location
+#### Course Instructor
+[Prof. Seong Tae Kim](https://ami.khu.ac.kr/people/pi)
+
+#### Time & Location
 Fri. 09:00-11:45 @ Global Building, 405
 
-#### Course Description 
+#### Course Description
 This course will provide lectures on traditional computer architectures. In particular, Computer Organization, Performance, Instruction Set Architecture, MIPS Processor, Pipelining, Superscalar, Multithreading, SIMD Processor, Cache, and Virtual Memory
 
 #### Objectives
@@ -46,5 +49,10 @@ The final grade will be determined according to the following percentage breakdo
 * Assigment: 10%
 * Attendance: 10%
 
+#### Teaching Assistant
+[Yong Hyun Ahn](https://ami.khu.ac.kr/people/students/YongHyunAhn), [Hyeon Bae Kim](https://ami.khu.ac.kr/people/students/HyeonbaeKim)
+
+#### Mentor
+[Heedong Kim](https://ami.khu.ac.kr/people/students/HeedongKim)
 
 <hr>
