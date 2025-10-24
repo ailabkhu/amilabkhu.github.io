@@ -143,6 +143,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Oct. 2025 Hamza is at TU Munich (CAMP Chair) for four months as a visiting scholar.
 - Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Congrats!
 - Sep. 2025 One paper got accepted to **Image and Vision Computing (IF: 4.2, JCR IF Rank 16.8%)**! Congrats!
 - Aug. 2025 Prof. Seong Tae Kim gave a talk at Workshop on Developing Globally Reliable AI systems for Automated Surgical Procedures in Munich
