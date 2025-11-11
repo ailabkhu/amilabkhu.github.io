@@ -17,23 +17,29 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2025
-- **[C56]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition                                                                                                                                         
+- **[C58]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                                                  
+Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2026 (Singapore)
+- **[C57]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition                                                                                                                                         
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
 - **[J26]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                                                                                              
 **Soyoun Won†**, **Hyeon Bae Kim†**, **Yong Hyun Ahn†**, Hong Joo Lee\*, **Seong Tae Kim***           
 _Image and Vision Computing_, 2025
-- **[C55]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                  
+- **[C56]** SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition                                                                                                                  
 **Ka Young Kim**, **Hyeon Bae Kim**, **Seong Tae Kim**\*           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                         
 <a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SurgX" target="_blank" style="color:#0D326F;">GitHub</a>            
-- **[C54]** Towards Holistic Surgical Scene Graph                                                                                                                   
+- **[C55]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin†, **Enki Cho†**, **Ka Young Kim†**, Jung Yong Kim, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                          
 <a href="https://arxiv.org/pdf/2507.15541" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/static/pdf/miccai25_ssg-com_poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SSG-Com/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SSG-Com" target="_blank" style="color:#0D326F;">GitHub</a>
-- **[C53]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
+- **[C54]** PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset                                                                                                                        
 Jinhyeok Jang†, Hong Joo Lee†, Nassir Navab, **Seong Tae Kim***           
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)
+- **[C53]** Semantic-Guided Regularization to Mitigate Spectral Bias in Implicit Neural Representations                                                                                                                                         
+Min Kyu Suh, Sumit Kumar Dam, **Seong Tae Kim**, Eui-Nam Huh, Choong Seon Hong\*              
+_Asia-Pacific Network Operations and Management Symposium_, 2025 (Kaohsiung)               
 - **[C52]** HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization (**Oral**)                                                                                                                        
 Joohyun Chang†, Soyeon Hong†, Hyogun Lee†, Seong Jong Ha, Dongho Lee, **Seong Tae Kim***, Jinwoo Choi\*                              
 _British Machine Vision Conference (**BMVC**)_, 2025 (Sheffield)                           
