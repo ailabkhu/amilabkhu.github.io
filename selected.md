@@ -17,6 +17,9 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
+- **[S40]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                                                  
+Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
+_AAAI Conference on Artificial Intelligence (**AAAI**)_, 2026 (Singapore)                       
 - **[S39]** Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition (**Spotlight**)                                                                                                                                         
 Jongseo Lee, Wooil Lee, Gyeong-Moon Park\* , **Seong Tae Kim**\*  and Jinwoo Choi\*              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2025 (San Diego)
