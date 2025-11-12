@@ -15,7 +15,6 @@ subtitle: AMI Lab Family
 * [Youngtae Kim](students/YoungtaeKim.md)
   
 #### MS students
-* [Oh Sung Choo](students/OhsungChoo.md)
 * [Youngseob Won](students/YoungseobWon.md)
 * [Suyoung Yun](students/SuyoungYun.md)
 * [Inseong Park](students/InseongPark.md)
