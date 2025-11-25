@@ -142,8 +142,8 @@ Key Technologies: Explainability, Trustworthy Machine Learning, Multimodal Learn
 Applications: Video Understanding, Surgical AI, Medical AI, Space AI
 
 ### Our Mission:           
-Contribute to the community: We value contribution over competition.
-Grow together: We believe research moves forward when people support one another.
+Contribute to the community: We value contribution over competition.                             
+Grow together: We believe research moves forward when people support one another.                  
 
 ### Join Us                
 We are actively seeking talented and self-motivated students (Undergraduate interns, M.S., Ph.D.).
