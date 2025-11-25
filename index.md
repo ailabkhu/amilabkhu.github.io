@@ -134,12 +134,22 @@ published: true
 <!-- slider.js 불러오기 -->
 <script src="/assets/js/slider.js"></script>
 Welcome to **AMI Lab** at **Kyung Hee University**!             
-Augmented Intelligence means we are studying AI for humanity.                    
-Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, Human-level Understanding 
+At AMI Lab, Augmented Intelligence represents our vision of developing AI that truly enhances human capability.
+We pursue AI research for humanity-technology that is explainable, trustworthy, and deeply aligned with human understanding.       
+
+Research Focus
+Key Technologies: Explainability, Trustworthy Machine Learning, Multimodal Learning, Reasoning, Human-level Understanding
+Applications: Video Understanding, Surgical AI, Medical AI, Space AI
 
 ### Our Mission: 
-- Make contributions to the community (Contribution rather than competition)
-- Run with People
+Contribute to the community: We value contribution over competition.
+Grow together: We believe research moves forward when people support one another.
+
+### Join Us
+We are actively seeking talented and self-motivated students (Undergraduate interns, M.S., Ph.D.).
+If you are passionate about building AI for humanity, AMI Lab welcomes you!
+Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introduction and your research interests.
+
 
 ### Recent News
 <hr>
