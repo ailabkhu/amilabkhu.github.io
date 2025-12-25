@@ -18,11 +18,12 @@ subtitle: AMI Lab Family
 * [Youngseob Won](students/YoungseobWon.md)
 * [Suyoung Yun](students/SuyoungYun.md)
 * [Inseong Park](students/InseongPark.md)
-  
-#### Undergraduate Interns
-* [Heedong Kim](students/HeedongKim.md)
 * [JeongIn Bae](students/JeongInBae.md)
 * [Chi Young Song](students/ChiYoungSong.md)
+
+#### Undergraduate Interns
+
+
 
 
 #### Alumni
