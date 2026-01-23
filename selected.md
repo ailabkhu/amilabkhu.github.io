@@ -17,6 +17,10 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
+- **[S41]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
+**Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***           
+_IEEE Transactions on Dependable and Secure Computing_, 2026
+
 - **[S40]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                                                  
 Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2026 (Singapore)                       
