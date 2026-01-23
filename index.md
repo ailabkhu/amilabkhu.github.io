@@ -153,6 +153,7 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 
 ### Recent News
 <hr>
+- Jan. 2026 One paper got accepted to **IEEE Transactions on Dependable and Secure Computing (IF: 7.5, JCR IF Rank 5%)**! Congrats Sam!
 - Oct. 2025 Hamza is at TU Munich (CAMP Chair) for four months as a visiting scholar.
 - Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Congrats!
 - Sep. 2025 One paper got accepted to **Image and Vision Computing (IF: 4.2, JCR IF Rank 16.8%)**! Congrats!
