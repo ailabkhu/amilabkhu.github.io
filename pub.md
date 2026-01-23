@@ -17,7 +17,7 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026
-- **[J26]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
+- **[J27]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***           
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
