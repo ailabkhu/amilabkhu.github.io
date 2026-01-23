@@ -21,7 +21,8 @@ div.row ul li {
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***           
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
-- **[C58]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                                              Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
+- **[C58]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                         
+Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2026 (Singapore)
 
 ### 2025
