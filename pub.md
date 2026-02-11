@@ -336,6 +336,7 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
 ### Patents (Application)                       
+- [PA11] 김성태, 김가영, 김현배. 설명 가능한 수술 단계 인식을 위한 인공지능 장치, 방법 및 컴퓨터 판독 가능한 기록매체 (10-2026-0027896)
 - [PA10] 김성태, 김정욱, 김현배, 조은기. 수술 영상에 포함된 기구 분할 장치, 방법 및 컴퓨터 판독가능 기록매체 (10-2026-0001540)
 - [PA9] 김성태, 박진경, 김가영. 확산 모델 기반 3차원 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0148991)
 - [PA8] 김성태, 박진경, 김가영. 확산모델 기반 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0065910)                                
