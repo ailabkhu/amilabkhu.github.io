@@ -23,7 +23,7 @@ subtitle: AMI Lab Family
 * [Yeseul Lee]()
 
 #### Postdoctoral Researcher
-* [Le Quang Huy]
+* [Le Quang Huy]()
 
 #### Undergraduate Interns
 
