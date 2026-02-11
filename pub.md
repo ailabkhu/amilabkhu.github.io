@@ -16,10 +16,14 @@ div.row ul li {
 *: Corresponding Author, †: Joint first author                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-### 2026
-- **[J27]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
-**Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***           
+### 2026  
+- **[J28]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
+**Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***                                     
 _IEEE Transactions on Dependable and Secure Computing_, 2026
+
+- **[J27]** Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy: Results of the PhaKIR 2024 challenge                                                                                                                     
+Tobias Rueckert, David Rauber, ..., **Enki Cho, Hyeon Bae Kim, Oh Sung Choo, Ka Young Kim, Seong Tae Kim**, Gonçalo Arantes, ...,  Stefanie Speidel, Daniel Rueckert, Hubertus Feussner, Dirk Wilhelm, Christoph Palm                                      
+_Medical Image Analysis_, 2026
 
 - **[C58]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                         
 Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
@@ -332,6 +336,7 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
 ### Patents (Application)                       
+- [PA10] 김성태, 김정욱, 김현배, 조은기. 수술 영상에 포함된 기구 분할 장치, 방법 및 컴퓨터 판독가능 기록매체 (10-2026-0001540)
 - [PA9] 김성태, 박진경, 김가영. 확산 모델 기반 3차원 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0148991)
 - [PA8] 김성태, 박진경, 김가영. 확산모델 기반 조영증강 컴퓨터 단층촬영 영상 생성 방법 및 이를 실행하기 위한 컴퓨팅 장치 (10-2025-0065910)                                
 - [PA7] 김성태, 안용현, Ameer Hamza, Abduallh. 지식그래프 기반 검색 증강 생성 기법을 활용한 흉부 병리 자연어 설명 생성 방법 및 시스템 (10-2025-0039856)                                
