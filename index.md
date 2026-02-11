@@ -153,7 +153,12 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 
 ### Recent News
 <hr>
+- Feb. 2026 Kayoung is at TU Munich (CAMP Chair) for four months as a visiting scholar.
+- Feb. 2026 One MICCAI 2026 Workshop Proposal got accepted. 
+- Feb. 2026 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2026**!
 - Jan. 2026 One paper got accepted to **IEEE Transactions on Dependable and Secure Computing (IF: 7.5, JCR IF Rank 5%)**! Congrats Sam!
+- Nov. 2025 One paper (on vision-language model) got accepted to **AAAI 2026**! Congrats!
+- Nov. 2025 Prof. Seong Tae Kim will serve as a board member of [**MICCAI SIGHCI**](https://miccai.org/index.php/special-interest-groups/sig-hci/)!
 - Oct. 2025 Hamza is at TU Munich (CAMP Chair) for four months as a visiting scholar.
 - Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Congrats!
 - Sep. 2025 One paper got accepted to **Image and Vision Computing (IF: 4.2, JCR IF Rank 16.8%)**! Congrats!
