@@ -21,6 +21,10 @@ div.row ul li {
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***                                     
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
+- **[C59]** SurgCheck: Do Vision–Language Models Really Look at Images in Surgical VQA?                                                                                                                                                                  
+Jongmin Shin†, **Ka Young Kim†**, **Enki Cho**, **Seong Tae Kim**\*, Namkee Oh\*                         
+_International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)_, 2026 (Nagoya)                          
+
 - **[J27]** Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy                                                                                                                    
 Tobias Rueckert, David Rauber, ..., **Enki Cho, Hyeon Bae Kim, Oh Sung Choo, Ka Young Kim, Seong Tae Kim**, ...,  Stefanie Speidel, Daniel Rueckert, Hubertus Feussner, Dirk Wilhelm, Christoph Palm                                      
 _Medical Image Analysis_, 2026
