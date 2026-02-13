@@ -153,6 +153,7 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 
 ### Recent News
 <hr>
+- Feb. 2026 One paper got accepted to **IPCAI 2026**! Congrats Ka Young, Enki!
 - Feb. 2026 Kayoung is at TU Munich (CAMP Chair) for four months as a visiting scholar.
 - Feb. 2026 One MICCAI 2026 Workshop Proposal got accepted. 
 - Feb. 2026 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2026**!
