@@ -21,6 +21,10 @@ div.row ul li {
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***                                     
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
+- **[C60]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                      
+**Samra Irshad**, Junho Kim, **Seong Tae Kim***                        
+_Medical Imaging with Deep Learning conference (MIDL)_, 2026 (Taipei)
+
 - **[C59]** SurgCheck: Do Vision–Language Models Really Look at Images in Surgical VQA?                                                                                                                                                                  
 Jongmin Shin†, **Ka Young Kim†**, **Enki Cho**, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)_, 2026 (Nagoya)                          
