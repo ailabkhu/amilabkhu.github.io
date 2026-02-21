@@ -33,7 +33,7 @@ st.kim@khu.ac.kr
 * Associate Professor, School of Computing, Kyung Hee University (2026.3~)
 * Head of School of Computing (컴퓨터공학부 학부장), Kyung Hee University (2025.9~)
 * Department Chair of Artificial Intelligence (인공지능학과 학과장), Kyung Hee University (2025.2~)
-* Assistant Professor, School of Computing, Kyung Hee University (2021.3~)
+* Assistant Professor, School of Computing, Kyung Hee University (2021.3~2026.2)
 * Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
   - Advisor: [Prof. Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ)
 * Visiting Researcher, Department of Electrical and Computer Engineering, University of Toronto (2015)
