@@ -17,9 +17,21 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- **[S41]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
+- **[S44]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
+**Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim**, Eui-Nam Huh, Choong Seon Hong                        
+_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
+
+- **[S43]** Unsupervised Domain Adaptation for Medical Image Segmentation Using Adaptogen-Perturbation                                                                                                                                              
+Hong Joo Lee, Yuan Bi, Sangmin Lee, Gyeong-Moon Park, Jung Uk Kim\*, **Seong Tae Kim***, Zhongliang Jiang, Nassir Navab                                      
+_Medical Image Analysis_, 2026
+
+- **[S42]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***           
 _IEEE Transactions on Dependable and Secure Computing_, 2026
+
+- **[S41]** Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy                                                                                                                    
+Tobias Rueckert, David Rauber, ..., **Enki Cho, Hyeon Bae Kim, Oh Sung Choo, Ka Young Kim, Seong Tae Kim**, ...,  Stefanie Speidel, Daniel Rueckert, Hubertus Feussner, Dirk Wilhelm, Christoph Palm                                      
+_Medical Image Analysis_, 2026
 
 - **[S40]** Leveraging Textual Compositional Reasoning for Robust Change Captioning                                                                                                                                                                  
 Kyu Ri Park, Jiyoung Park, **Seong Tae Kim**, Hong Joo Lee, and Jung Uk Kim\*                        
