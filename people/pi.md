@@ -10,7 +10,7 @@ subtitle: AMI Lab Family
 #### Prof. Seong Tae Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SeongTae_Kim.png" width="200" height="265" align="left" hspace="20" />
-Assistant Professor                  
+Associate Professor                  
 School of Computing                
 College of Software                   
 Kyung Hee University                
@@ -30,9 +30,10 @@ st.kim@khu.ac.kr
 * BS, School of Electrical Engineering, Korea University (2012)  
   
 #### Work Experience
-* Head of School of Computing, Kyung Hee University (2025.9~)
-* Department Chair of Artificial Intelligence, Kyung Hee University (2025.2~)
-* Assistant Professor, Department of Computer Science and Engineering, Kyung Hee University (2021.3~)
+* Associate Professor, School of Computing, Kyung Hee University (2026.3~)
+* Head of School of Computing (컴퓨터공학부 학부장), Kyung Hee University (2025.9~)
+* Department Chair of Artificial Intelligence (인공지능학과 학과장), Kyung Hee University (2025.2~)
+* Assistant Professor, School of Computing, Kyung Hee University (2021.3~)
 * Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
   - Advisor: [Prof. Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ)
 * Visiting Researcher, Department of Electrical and Computer Engineering, University of Toronto (2015)
@@ -41,7 +42,7 @@ st.kim@khu.ac.kr
 #### Professional Services
 * Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _GRAIL 2025 of MICCAI (Co-Chair)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
-* Area Chair / Senior Program Committee - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_, AAAI 2026 AI Alignment Track
+* Area Chair / Senior Program Committee - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_, AAAI 2026 AI Alignment Track, _MICCAI 2026_
 * Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE 
 Transactions on Pattern Analysis and Machine Intelligence_, _IEEE Transactions on Neural Networks and Learning Systems_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, _IEEE Transactions on Sustainable Computing_, _IEEE Transactions on Automation Science and Engineering_, _IEEE Journal of Biomedical and Health Informatics_, _IEEE Transactions on Mobile Computing_, _IEEE Transactions on Big Data_, _IEEE Transactions on Industrial Informatics_, Pattern Recognition, etc. 
 
