@@ -14,7 +14,7 @@ subtitle: Life in AMI Lab
 
 ## 2025
 
-#### KHU-TUM Joint Workshop (Invited Talks by Prof. Nassir Navab, Dr. Ulrich Eck, Prof. Azade Farshad, Dr. Han Li, Dr. Stefano Gasperini, and Mr. Yousef Yeganeh), September 2025
+#### KHU-TUM Joint Workshop (Invited Talks by Prof. Nassir Navab and his team), September 2025
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop2.jpg" width="700" align="center"/>
 
