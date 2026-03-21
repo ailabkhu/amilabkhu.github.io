@@ -6,15 +6,18 @@ subtitle: Life in AMI Lab
 
 <hr>
 
-## 2025
 
-#### Invited Talk by Prof. Daniel Roth (TU Munich)
+## 2026
+#### Invited Talk by Prof. Daniel Roth (TU Munich), March 2026
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/DanielRoth26-1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/DanielRoth26-2.jpg" width="700" align="center"/>
+
+## 2025
 
 #### KHU-TUM Joint Workshop (Invited Talks by Prof. Nassir Navab, Dr. Ulrich Eck, Prof. Azade Farshad, Dr. Han Li, Dr. Stefano Gasperini, and Mr. Yousef Yeganeh), September 2025
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop2.jpg" width="700" align="center"/>
+
 
 #### MICCAI2025, September 2025            
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_07.jpg" width="700" align="center"/>
