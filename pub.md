@@ -18,7 +18,7 @@ div.row ul li {
 
 ### 2026  
 - **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
-**Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim**, Eui-Nam Huh, Choong Seon Hong                        
+**Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
 
 - **[J30]** Unsupervised Domain Adaptation for Medical Image Segmentation Using Adaptogen-Perturbation                                                                                                                                              
