@@ -20,10 +20,13 @@ Department of Computer Science and Engineering, Kyung Hee University
 <br>
 
 #### Publication
-- **[J1]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
+- **[J3]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
 **Soyoun Won**, Hyeon Bae Kim (Co-first), Yong Hyun Ahn (Co-first), Hong Joo Lee, Seong Tae Kim                                          
 Image and Vision Computing(**ImaVis**), 2025                                   
-- **[C2]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
+- **[J2]** PRISM: Pseudo-labeling and Region-based Inpainting for Synthetic Change Detection Modeling                                                                                  
+Enki Cho, **Soyoun Won**, Oh Sung Choo, Seong Tae Kim\*           
+_IEEE Geoscience and Remote Sensing Letters (**GRSL**)_, 2025
+- **[J1]** Effects of Mixed Sample Data Augmentation on Interpretability of Neural Networks                                                                                       
 **Soyoun Won**, Sung-ho Bae, Seong Tae Kim           
 _Neural Networks_, 2025
 - **[C1]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
