@@ -25,6 +25,14 @@ samra@khu.ac.kr
 
 
 #### Publication
+- **[J2]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
+**Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, Seong Tae Kim\*                                     
+_IEEE Transactions on Dependable and Secure Computing_, 2026
+
+- **[C1]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                      
+**Samra Irshad**, Junho Kim, Seong Tae Kim\*                        
+_Medical Imaging with Deep Learning conference (MIDL)_, 2026 (Taipei)
+
 - **[J1]** Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                                                  
 **Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                     
 _IEEE Access_, 2023   
