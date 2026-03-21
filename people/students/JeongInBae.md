@@ -9,9 +9,9 @@ subtitle: AMI Lab Family
 #### JeongIn Bae
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/JeongInBae.jpg" width="200" height="265" align="left" hspace="20" />         
-Undergraduate Intern (2025.2~)       
+Master Student (2026.3~)       
 
-Department of Applied Physics, Kyung Hee University       
+Department of Artificial Intelligence, Kyung Hee University       
             
 **Contact**  
 holyangod@khu.ac.kr                    
