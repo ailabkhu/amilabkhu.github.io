@@ -20,6 +20,6 @@ sy9267@khu.ac.kr
 <br>
 
 #### Research Interest
-* Temporal Action Detection
+* Video Understanding
 
 <hr>
