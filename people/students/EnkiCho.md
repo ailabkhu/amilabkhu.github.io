@@ -28,6 +28,12 @@ cekkec@khu.ac.kr
 <hr>
 
 #### Publication
+- [C3] SurgCheck: Do Vision–Language Models Really Look at Images in Surgical VQA?                                                                                                                                                                  
+Jongmin Shin†, Ka Young Kim†, **Enki Cho**, Seong Tae Kim\*, Namkee Oh\*                         
+_International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)_, 2026 (Nagoya)  
+- **[J4]** Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy                                                                                                                    
+Tobias Rueckert, David Rauber, ..., **Enki Cho**, Hyeon Bae Kim, Oh Sung Choo, Ka Young Kim, Seong Tae Kim, ...,  Stefanie Speidel, Daniel Rueckert, Hubertus Feussner, Dirk Wilhelm, Christoph Palm                                      
+_Medical Image Analysis_, 2026
 - **[C2]** TeCIS: Text-Enhanced Cross-Modal Instrument Segmentation in Surgical Video                                                                                                                 
 Hyeon Bae Kim, **Eunki Cho (co-first)**, Jung Uk Kim, Seong Tae Kim                                                                                                                 
 Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (**ICIPW**), 2025 (Alaska)

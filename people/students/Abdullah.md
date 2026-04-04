@@ -21,6 +21,9 @@ Department of Computer Science and Engineering, Kyung Hee University
 * Multimodal AI
 
 #### Publication
+- **[J2]** Automated Radiology Report Labeling in Chest X-Ray Pathologies: Development and Evaluation of a Large Language Model Framework               
+**Abdullah**, Seong Tae Kim\*                              
+_JMIR Medical Informatics_, 2025     
 - **[C2]** LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies                                    
   Ameer Hamza, **Abdullah**, Yong Hyun Ahn, Sungyoung Lee, Seong Tae Kim           
 _AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 (Philadelphia)

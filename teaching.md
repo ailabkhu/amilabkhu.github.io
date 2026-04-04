@@ -3,36 +3,48 @@ layout: page
 title: Teaching
 ---
 
+### 2026  
+#### Spring
+- CSE203 Computer Architecture (Undergraduate)
+- AI7001 AI and Ethics (Graduate)
+- CSE406 Capstone Design (Undergraduate)
+  
 ### 2025
 #### Fall
 - [CSE203 Computer Architecture (Undergraduate)](https://ami.khu.ac.kr/teaching/ComputerArchitecture25F/) 
 - AI3008 Explainable and Reliable AI (Undergraduate)
 - SLS1006 Major Exploration2 (Undergraduate)
+- CSE406 Capstone Design (Undergraduate)
   
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - CSE405 Graduation Project (Undergraduate)
 - AI7001 AI and Ethics (Graduate)
+- CSE406 Capstone Design (Undergraduate)
   
 ### 2024
 #### Fall
 - CSE203 Computer Architecture (Undergraduate) 
 - AI1003 Mathematics for Artificial Intelligence (Undergraduate)              
 - AI3008 Explainable and Reliable AI (Undergraduate)
+- CSE406 Capstone Design (Undergraduate)
 
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7001 AI and Ethics (Graduate)
+- CSE406 Capstone Design (Undergraduate)
   
 ### 2023
 #### Fall
 - CSE203 Computer Architecture (Undergraduate)
 - AI1003 Mathematics for Artificial Intelligence (Undergraduate)
+- CSE406 Capstone Design (Undergraduate)
 
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7027 Explainable AI (Graduate)
 - AI7008 AI Practical Research Project 2 (Graduate)
+- CSE406 Capstone Design (Undergraduate)
  
 ### 2022
 #### Fall

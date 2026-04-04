@@ -9,9 +9,9 @@ subtitle: AMI Lab Family
 #### Inseong Park
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/InseongPark.jpg" width="200" height="265" align="left" hspace="20" />
-Undergraduate Intern (2025.5~)  
+Master Student (2025.9~)       
 
-Department of Astronomy & Space Science, Kyung Hee University         
+Department of Artificial Intelligence, Kyung Hee University  
             
 **Contact**  
 dlstjd2410@khu.ac.kr                                       
