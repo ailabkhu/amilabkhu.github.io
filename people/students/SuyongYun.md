@@ -6,7 +6,7 @@ subtitle: AMI Lab Family
 
 <hr>
 
-#### Suyoung Yun
+#### Suyong Yun
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SuyoungYun.jpg" width="200" height="265" align="left" hspace="20" />         
 Master Student (2025.3~)       

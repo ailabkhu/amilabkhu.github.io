@@ -16,7 +16,7 @@ subtitle: AMI Lab Family
   
 #### MS students
 * [Youngseob Won](students/YoungseobWon.md)
-* [Suyoung Yun](students/SuyoungYun.md)
+* [Suyong Yun](students/SuyongYun.md)
 * [Inseong Park](students/InseongPark.md)
 * [JeongIn Bae](students/JeongInBae.md)
 * [Chi Young Song](students/ChiYoungSong.md)
