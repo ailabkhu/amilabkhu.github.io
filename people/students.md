@@ -20,7 +20,7 @@ subtitle: AMI Lab Family
 * [Inseong Park](students/InseongPark.md)
 * [JeongIn Bae](students/JeongInBae.md)
 * [Chi Young Song](students/ChiYoungSong.md)
-* [Yeseul Lee]()
+* [Yeseul Lee](students/yeseul.md)
 
 #### Postdoctoral Researcher
 * [Le Quang Huy]()
