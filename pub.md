@@ -17,9 +17,17 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
+- **[C62]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
+Catalina Gomez, Sue Min Cho, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
+
 - **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
+
+- **[J31]** Unsupervised Domain Adaptation for Medical Image Segmentation Using Adaptogen-Perturbation                                                                                                                                              
+Mudassir Ibrahim Awan, Sungjoo Kang, Dongbeom Ko, Waseem Hassan, **Seong Tae Kim**, Seokhee Jeon                                      
+_IEEE Transactions on Industrial Informatics_, 2026
 
 - **[J30]** Unsupervised Domain Adaptation for Medical Image Segmentation Using Adaptogen-Perturbation                                                                                                                                              
 Hong Joo Lee, Yuan Bi, Sangmin Lee, Gyeong-Moon Park, Jung Uk Kim\*, **Seong Tae Kim***, Zhongliang Jiang, Nassir Navab                                      
