@@ -25,7 +25,7 @@ _International Conference On Medical Image Computing & Computer Assisted Interve
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
 
-- **[J31]** Unsupervised Domain Adaptation for Medical Image Segmentation Using Adaptogen-Perturbation                                                                                                                                              
+- **[J31]** Fourier-enhanced Transformer Encoder Network for Efficient Haptic Texture Modeling/Rendering                                                                                                                                               
 Mudassir Ibrahim Awan, Sungjoo Kang, Dongbeom Ko, Waseem Hassan, **Seong Tae Kim**, Seokhee Jeon                                      
 _IEEE Transactions on Industrial Informatics_, 2026
 
