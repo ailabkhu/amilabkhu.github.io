@@ -17,7 +17,7 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
-- **[C62]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
+- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
 Catalina Gomez, Sue Min Cho, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
 
