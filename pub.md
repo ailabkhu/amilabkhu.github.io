@@ -18,12 +18,12 @@ div.row ul li {
 
 ### 2026  
 - **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
-Catalina Gomez, Sue Min Cho, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
+Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
 
 - **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
-_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
+_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2026 (Denver)
 
 - **[J31]** Fourier-enhanced Transformer Encoder Network for Efficient Haptic Texture Modeling/Rendering                                                                                                                                               
 Mudassir Ibrahim Awan, Sungjoo Kang, Dongbeom Ko, Waseem Hassan, **Seong Tae Kim**, Seokhee Jeon                                      
