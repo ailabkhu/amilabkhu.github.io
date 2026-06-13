@@ -44,6 +44,7 @@ _Medical Imaging with Deep Learning conference (MIDL)_, 2026 (Taipei)
 - **[C59]** SurgCheck: Do Vision–Language Models Really Look at Images in Surgical VQA?                                                                                                                                                                  
 Jongmin Shin†, **Ka Young Kim†**, **Enki Cho**, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)_, 2026 (Nagoya)                          
+_International Journal of Computer Assisted Radiology and Surgery_
 
 - **[J28]** Learning to Abstain: Reliable Medical Image Segmentation with Rejection Option                                                                                                                                                        
 Mirac Ayberk Sanisoglu, Nassir Navab, **Seong Tae Kim***                                                                  
