@@ -8,6 +8,15 @@ subtitle: Life in AMI Lab
 
 
 ## 2026
+
+#### CVPR2026, June 2026    
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR26_03.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR26_02.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR26_01.jpg" width="700" align="center"/>
+
+#### Gathering, May 2026    
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2605_AMI.jpg" width="700" align="center"/>
+
 #### Invited Talk by Prof. Daniel Roth (TU Munich), March 2026
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/DanielRoth26-1.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/DanielRoth26-2.jpg" width="700" align="center"/>
