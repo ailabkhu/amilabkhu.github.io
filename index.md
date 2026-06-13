@@ -8,6 +8,7 @@ published: true
 
 <div class="slider-container" style="position: relative; overflow: hidden;">
   <div id="slider" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2605_AMI.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Korea-GermanyWorkshop1.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_07.jpg">
     <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/MICCAI2025_01.jpg">
