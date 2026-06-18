@@ -154,11 +154,11 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 
 ### Recent News
 <hr>
-- Jun. 2026 Two papers got accepted to "ECCV 2026"! Congrats Minkuk, Suyong, Youngtae!
-- Jun. 2026 One paper got accepted to "Scientific Reports (IF: 4.9, JCR IF Rank 14.4%)"! Congrats Soyoun, Youngseob, SAM!
-- Jun. 2026 One paper got accepted to "International Journal of Computer Assisted Radiology and Surgery (IF: 2.8, JCR IF Rank 20.7%)"!
+- Jun. 2026 Two papers got accepted to **ECCV 2026**! Congrats Minkuk, Suyong, Youngtae!
+- Jun. 2026 One paper got accepted to **Scientific Reports (IF: 4.9, JCR IF Rank 14.4%)**! Congrats Soyoun, Youngseob, SAM!
+- Jun. 2026 One paper got accepted to **International Journal of Computer Assisted Radiology and Surgery (IF: 2.8, JCR IF Rank 20.7%)**!
 - May 2026 One paper got accepted to **MICCAI 2026 (Early Accept)**! 
-- May 2026 One paper got accepted to "IEEE Transactions on Industrial Informatics (IF: 9.8, JCR IF Rank 6.2%)"!
+- May 2026 One paper got accepted to **IEEE Transactions on Industrial Informatics (IF: 9.8, JCR IF Rank 6.2%)**!
 - Feb. 2026 One paper got accepted to **CVPR 2026**! 
 - Feb. 2026 Two papers got accepted to **Medical Image Analysis (IF: 14.0, JCR IF Rank 1.6%)**! 
 - Feb. 2026 One paper got accepted to **MIDL 2026**! Congrats SAM!
