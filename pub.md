@@ -18,15 +18,15 @@ div.row ul li {
 
 ### 2026  
 - **[C64]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
-Minkuk Kim, Suyong Yun, Young Tae Kim, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                       
+Minkuk Kim, Suyong Yun, Young Tae Kim, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 - **[C63]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
-Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                
+Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 - **[J32]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
-**Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                      
+**Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                                                                                                                       
 _Scientific Reports_, 2026
 
 - **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                               
@@ -49,7 +49,7 @@ _Medical Image Analysis_, 2026
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***                                     
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
-- **[C60]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                      
+- **[C60]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                     
 **Samra Irshad**, Junho Kim, **Seong Tae Kim***                        
 _Medical Imaging with Deep Learning conference (MIDL)_, 2026 (Taipei)
 
