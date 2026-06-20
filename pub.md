@@ -17,11 +17,23 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
-- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
-Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
+- **[C64]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+Minkuk Kim, Suyong Yun, Young Tae Kim, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[C63]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
+Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[J32]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
+**Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                      
+_Scientific Reports_, 2026
+
+- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                               
+Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath            
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
 
-- **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
+- **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                 
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
 _Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2026 (Denver)
 
