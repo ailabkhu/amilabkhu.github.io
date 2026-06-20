@@ -17,6 +17,18 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
+- **[S49]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+**Minkuk Kim**, **Suyong Yun**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[S48]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
+Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[S47]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
+**Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                                                                                                                       
+_Scientific Reports_, 2026
+
 - **[S46]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
 Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
