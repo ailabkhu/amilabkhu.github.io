@@ -18,11 +18,11 @@ div.row ul li {
 
 ### 2026  
 - **[C64]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
-Minkuk Kim, Suyong Yun, Young Tae Kim, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***
+Minkuk Kim, Suyong Yun, Young Tae Kim, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                       
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 - **[C63]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
-Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*
+Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 - **[J32]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
