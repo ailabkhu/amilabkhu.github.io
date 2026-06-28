@@ -18,7 +18,7 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 - **[S50]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
-**Minkuk Kim**, **Suyong Yun**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
+**Minkuk Kim†**, **Suyong Yun†**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 - **[S49]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
