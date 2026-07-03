@@ -27,7 +27,7 @@ navbar-links:
   Research: 
     - Selected Publications: "selected"
     - Full Publications: "pub"
-    - Grant: "project"
+    - Projects & Grants: "project"
   Teaching: "teaching"
   Photos: "photo"
 
