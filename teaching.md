@@ -66,18 +66,18 @@ title: Teaching
 
 ### 2020 (TU Munich)
 #### Winter
-- Deep Learning for Medical Applications (Graudate)
-- Machine Learning in Medical Imaging (Graudate)
-- Computer Aided Medical Procedures I (Graudate)
+- Deep Learning for Medical Applications (Graduate)
+- Machine Learning in Medical Imaging (Graduate)
+- Computer Aided Medical Procedures I (Graduate)
 
 #### Summer
-- Deep Learning for Medical Applications (Graudate)
-- Machine Learning in Medical Imaging (Graudate)
-- Computer Aided Medical Procedures II (Graudate)
+- Deep Learning for Medical Applications (Graduate)
+- Machine Learning in Medical Imaging (Graduate)
+- Computer Aided Medical Procedures II (Graduate)
 
 ### 2019 (TU Munich)
 #### Winter
-- Computer Aided Medical Procedures I (Graudate)
+- Computer Aided Medical Procedures I (Graduate)
   
 #### Summer
-- Computer Aided Medical Procedures II (Graudate)
+- Computer Aided Medical Procedures II (Graduate)
