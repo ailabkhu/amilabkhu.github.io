@@ -11,10 +11,10 @@ subtitle: AMI Lab Family
 * [Samra Irshad](students/Sam.md)
 * [Minkuk Kim](students/MinKukKim.md)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (Student Representative)            
-* [Ka Young Kim](students/KaYoungKim.md)
 * [Youngtae Kim](students/YoungtaeKim.md)
   
 #### MS students
+* [Ka Young Kim](students/KaYoungKim.md)
 * [Youngseob Won](students/YoungseobWon.md)
 * [Suyong Yun](students/SuyongYun.md)
 * [Inseong Park](students/InseongPark.md)

@@ -17,13 +17,25 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
-- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
-Catalina Gomez, Sue Min Cho, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
+- **[C64]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+**Minkuk Kim†**, **Suyong Yun†**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[C63]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
+Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
+
+- **[J32]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
+**Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                                                                                                                       
+_Scientific Reports_, 2026
+
+- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                               
+Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath            
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
 
-- **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
+- **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                 
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
-_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026 (Denver)
+_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2026 (Denver)
 
 - **[J31]** Fourier-enhanced Transformer Encoder Network for Efficient Haptic Texture Modeling/Rendering                                                                                                                                               
 Mudassir Ibrahim Awan, Sungjoo Kang, Dongbeom Ko, Waseem Hassan, **Seong Tae Kim**, Seokhee Jeon                                      
@@ -37,13 +49,14 @@ _Medical Image Analysis_, 2026
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, **Seong Tae Kim***                                     
 _IEEE Transactions on Dependable and Secure Computing_, 2026
 
-- **[C60]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                      
+- **[C60]** No Evidence of Disease: Clinically-Risky Adversarial Chest CT Report Generation                                                                                                                                                                                                     
 **Samra Irshad**, Junho Kim, **Seong Tae Kim***                        
 _Medical Imaging with Deep Learning conference (MIDL)_, 2026 (Taipei)
 
 - **[C59]** SurgCheck: Do Vision–Language Models Really Look at Images in Surgical VQA?                                                                                                                                                                  
 Jongmin Shin†, **Ka Young Kim†**, **Enki Cho**, **Seong Tae Kim**\*, Namkee Oh\*                         
 _International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)_, 2026 (Nagoya)                          
+_International Journal of Computer Assisted Radiology and Surgery_
 
 - **[J28]** Learning to Abstain: Reliable Medical Image Segmentation with Rejection Option                                                                                                                                                        
 Mirac Ayberk Sanisoglu, Nassir Navab, **Seong Tae Kim***                                                                  
