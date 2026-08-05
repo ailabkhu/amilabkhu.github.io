@@ -21,6 +21,7 @@ subtitle: AMI Lab Family
 * [JeongIn Bae](students/JeongInBae.md)
 * [Chi Young Song](students/ChiYoungSong.md)
 * [Yeseul Lee](students/yeseul.md)
+* [Eunju Seo](students/EunjuSeo.md)
 
 #### Postdoctoral Researcher
 * [Le Quang Huy]()
