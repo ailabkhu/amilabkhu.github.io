@@ -12,10 +12,10 @@ subtitle: AMI Lab Family
 * [Minkuk Kim](students/MinKukKim.md)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (Student Representative)            
 * [Youngtae Kim](students/YoungtaeKim.md)
-  
+* [Suyong Yun](students/SuyongYun.md)
+
 #### MS students
 * [Youngseob Won](students/YoungseobWon.md)
-* [Suyong Yun](students/SuyongYun.md)
 * [Inseong Park](students/InseongPark.md)
 * [JeongIn Bae](students/JeongInBae.md)
 * [Chi Young Song](students/ChiYoungSong.md)
