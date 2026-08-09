@@ -9,7 +9,7 @@ subtitle: AMI Lab Family
 #### Suyong Yun
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SuyoungYun.jpg" width="200" height="265" align="left" hspace="20" />         
-Master Student (2025.3~)       
+MS-PhD Student (2025.3~)       
 
 Department of Artificial Intelligence, Kyung Hee University         
             
@@ -21,5 +21,10 @@ sy9267@khu.ac.kr
 
 #### Research Interest
 * Video Understanding
+
+#### Publication
+- **[C1]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+Minkuk Kim†, **Suyong Yun†**, Young Tae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim                                                                                                                                               
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 <hr>
