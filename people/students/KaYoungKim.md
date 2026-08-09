@@ -9,7 +9,7 @@ subtitle: AMI Lab Family
 #### Ka Young Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/KaYoung.JPG" width="200" height="265" align="left" hspace="20" />
-MS Student (2024.3~)        
+MS Student (2024.3~2026.8)        
 
 Department of Computer Science and Engineering, Kyung Hee University         
             
@@ -34,7 +34,6 @@ _Medical Image Analysis_, 2026
 **Ka Young Kim**, Hyeon Bae Kim, Seong Tae Kim      
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2025 (Daejeon)                                                       
 <a href="https://arxiv.org/pdf/2507.15418v1" target="_blank" style="color:#0D326F;">Paper</a> | <a href="https://ailab-kyunghee.github.io/SurgX/static/pdf/SurgX_Poster.pdf" target="_blank" style="color:#0D326F;">Poster</a> | <a href="https://ailab-kyunghee.github.io/SurgX/" target="_blank" style="color:#0D326F;">Project Page</a> | <a href="https://github.com/ailab-kyunghee/SurgX" target="_blank" style="color:#0D326F;">GitHub</a>
-<br>
 <br>
 - **[C1]** Towards Holistic Surgical Scene Graph                                                                                                                   
 Jongmin Shin, Enki Cho (co-first), **Ka Young Kim (co-first)**, Jung Yong Kim, Seong Tae Kim\*, Namkee Oh\*                  
