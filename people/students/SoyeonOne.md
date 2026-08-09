@@ -20,6 +20,9 @@ Department of Computer Science and Engineering, Kyung Hee University
 <br>
 
 #### Publication
+- **[J4]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
+**Soyoun Won†**, Kiyoung Kim†, Youngseob Won, Samra Irshad, Sungyoung Lee, Seung-Young Yu, Seong Tae Kim                                                                                                                                       
+_Scientific Reports_, 2026
 - **[J3]** Understanding Adversarial Robustness of Deep Neural Networks via Decision Reliance                                   
 **Soyoun Won**, Hyeon Bae Kim (Co-first), Yong Hyun Ahn (Co-first), Hong Joo Lee, Seong Tae Kim                                          
 Image and Vision Computing(**ImaVis**), 2025                                   
