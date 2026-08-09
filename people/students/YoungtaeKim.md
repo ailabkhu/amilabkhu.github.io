@@ -22,5 +22,9 @@ youngtae1216@khu.ac.kr
 * Large Language Model
 * Video Captioning
 
+#### Publication
+- **[C1]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+Minkuk Kim†, Suyong Yun†, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim                                                                                                                                               
+_European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
 <hr>
