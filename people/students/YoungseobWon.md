@@ -25,6 +25,8 @@ wysgene19@khu.ac.kr
 * Reportability 
 
 #### Publications
+- **[J1]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     Soyoun Won†, Kiyoung Kim†, **Youngseob Won**, Samra Irshad, Sungyoung Lee, Seung-Young Yu, Seong Tae Kim                                                                                                                                       
+_Scientific Reports_, 2026
 - **[C3]** Teddysum at the NTCIR-18 HIDDEN-RAD Task: Using RAG and Tree-of-Thought for Causal Explanation                                             
 **Youngseob Won**, Younggyun Hahm, Chanhyuk Yoon, Seong Tae Kim                                           
 _Proceedings of the 18th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-18**)_, 2025 (Tokyo)                                           
