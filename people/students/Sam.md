@@ -25,7 +25,8 @@ samra@khu.ac.kr
 
 
 #### Publication
-- **[J3]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                                   Soyoun Won†, Kiyoung Kim†, Youngseob Won, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu, Seong Tae Kim                                                                                                                                       
+- **[J3]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                           
+  Soyoun Won†, Kiyoung Kim†, Youngseob Won, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu, Seong Tae Kim                                                                                                                                       
 _Scientific Reports_, 2026
 - **[J2]** Adversarial Wear and Tear: Exploiting Natural Damage for Generating PHysical-world Adversarial Examples                                                                                                                
 **Samra Irshad**, Seungkyu Lee, Nassir Navab, Hong Joo Lee\*, Seong Tae Kim\*                                     
