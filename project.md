@@ -14,7 +14,7 @@ subtitle: Projects
 - Cloud Continuum for Large Scale AI (Supported by IITP (2023-2030)) [ITRC]                 
 - Multi-Memory Fusion-Based Integrated Context Understanding (Supported by ETRI (2026-2027))
 - Intelliware Convergence Research Institute (Supported by NRF (2025-2027)) [BK21+]
-- Satellite Image Change Detection (Supported by Hancome Inspace (2026))
+- Satellite Image Change Detection (Supported by Inspace (2026))
 
    
 <br>
