@@ -40,7 +40,7 @@ st.kim@khu.ac.kr
   - Advisor: [Prof. Konstantinos N Plataniotis](https://scholar.google.com/citations?user=W-4N_2gAAAAJ)
   
 #### Professional Services
-* Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _GRAIL 2025 of MICCAI (Co-Chair)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
+* Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _GRAIL of MICCAI (2025,2026)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~2025.12) 
 * Board member of MICCAI SIGHCI (2025~)
 * Area Chair / Senior Program Committee - _MICCAI (2022,2023,2024,2026)_, AAAI AI Alignment Track (2026,2027)
