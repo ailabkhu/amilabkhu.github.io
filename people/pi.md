@@ -41,8 +41,9 @@ st.kim@khu.ac.kr
   
 #### Professional Services
 * Organizing Committee - _MICCAI 2025 (Outreach Chair)_, _GRAIL 2025 of MICCAI (Co-Chair)_, _IJCAI 2024 (Workshop and Tutorial Coordinator)_
-* Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
-* Area Chair / Senior Program Committee - _MICCAI 2022_, _MICCAI 2023_, _MICCAI 2024_, AAAI 2026 AI Alignment Track, _MICCAI 2026_
+* Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~2025.12) 
+* Board member of MICCAI SIGHCI (2025~)
+* Area Chair / Senior Program Committee - _MICCAI (2022,2023,2024,2026)_, AAAI AI Alignment Track (2026,2027)
 * Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, _IJCAI_, _ICML_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE 
 Transactions on Pattern Analysis and Machine Intelligence_, _IEEE Transactions on Neural Networks and Learning Systems_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, _IEEE Transactions on Sustainable Computing_, _IEEE Transactions on Automation Science and Engineering_, _IEEE Journal of Biomedical and Health Informatics_, _IEEE Transactions on Mobile Computing_, _IEEE Transactions on Big Data_, _IEEE Transactions on Industrial Informatics_, Pattern Recognition, etc. 
 
