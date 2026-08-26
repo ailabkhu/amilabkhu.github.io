@@ -17,11 +17,11 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
-- **[C64]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+- **[C65]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
 **Minkuk Kim†**, **Suyong Yun†**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
-- **[C63]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
+- **[C64]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
 Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
@@ -29,9 +29,14 @@ _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 **Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                                                                                                                       
 _Scientific Reports_, 2026
 
-- **[C62]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                               
+- **[C63]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                               
 Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath            
-_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg) [Oral]
+
+- **[C62]** It’s Time to Talk Human-Centered Research at MICCAI                                                                                                                                                                               
+Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath            
+_MICCAI Workshop on Human-AI Collaboration_, 2026 (Strasbourg)
+
 
 - **[C61]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                 
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
