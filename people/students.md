@@ -13,7 +13,7 @@ subtitle: AMI Lab Family
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (Student Representative)            
 * [Youngtae Kim](students/YoungtaeKim.md)
 * [Suyong Yun](students/SuyongYun.md)
-* [Zulkaif Sajjad](students/Zulkaif.md)
+* [Zulkaif Sajjad]()
 
 #### MS students
 * [Youngseob Won](students/YoungseobWon.md)
@@ -28,7 +28,7 @@ subtitle: AMI Lab Family
 
 #### Undergraduate Interns
 * [Hyeoksu Hwang](students/HyeoksuHwang.md)
-* [Dohyun Kwon](students/Dohyun.md)
+* [Dohyun Kwon]()
 
 
 
