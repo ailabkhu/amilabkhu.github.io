@@ -27,7 +27,6 @@ logos:
 ---
 
 <style>
-.logo-intro { margin-bottom: 1.5rem; }
 .logo-allbtn {
   display: inline-block;
   padding: 0.55rem 1.1rem;
@@ -130,10 +129,6 @@ logos:
 .logo-usage { margin-top: 2.5rem; font-size: 0.9rem; color: #666; }
 .logo-usage li { margin-bottom: 0.25rem; }
 </style>
-
-<div class="logo-intro" markdown="1">
-Hover over a logo (or tap it on a phone) and click a format to download that file. **SVG** and **PDF** are vector files that stay sharp at any size — use them for posters, slides and print. **PNG** has a transparent background; **JPG** has a white background.
-</div>
 
 <p>
   <a class="logo-allbtn" href="{{ '/assets/logo/AMI_LAB_logo_pack.zip' | relative_url }}" download>
