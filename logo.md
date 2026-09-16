@@ -183,5 +183,5 @@ Hover over a logo (or tap it on a phone) and click a format to download that fil
 - Keep the original proportions and colors; please do not stretch, rotate or recolor the logo.
 - Leave clear space around the logo — at least the height of the emblem's circle.
 - Place the logo on a plain, light background whenever possible.
-- For any other use, or if you need a different file format, contact [Prof. Seong Tae Kim](mailto:st.kim@khu.ac.kr).
+- For any other use, or if you need a different file format, contact [Ka Young Kim](mailto:uwrgoy7584@gmail.com).
 </div>
