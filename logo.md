@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Logo
-subtitle: Official logos of the Augmented Intelligence Lab
+subtitle: Official logos of the AMI Lab and Kyung Hee University
 permalink: /logo/
-logos:
+ami_logos:
   - label: "Symbol"
     note: "Emblem only"
     red: "LOGO_RED"
@@ -24,9 +24,58 @@ logos:
     note: "Emblem beside full wordmark"
     red: "AUGMENTED_RED_2"
     blue: "AUGMENTED_BLUE_2"
+khu_logos:
+  - label: "Emblem"
+    note: "Crest with curved university name"
+    stem: "KHU_emblem"
+  - label: "Stacked"
+    note: "Crest above English wordmark"
+    stem: "KHU_vertical_en"
+  - label: "Horizontal"
+    note: "Crest beside English wordmark"
+    stem: "KHU_horizontal_en"
+  - label: "KHU mark"
+    note: "Letter mark only"
+    stem: "KHU_mark"
 ---
 
 <style>
+.logo-set-input {
+  position: absolute;
+  width: 1px; height: 1px;
+  opacity: 0;
+}
+.logo-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid #ddd;
+}
+.logo-tabs label {
+  margin-bottom: -1px;
+  padding: 0.5rem 1.1rem;
+  border: 1px solid transparent;
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+  font-weight: 700;
+  color: #888;
+  cursor: pointer;
+}
+.logo-tabs label:hover { color: #990F19; }
+#set-ami:checked ~ .logo-tabs label[for="set-ami"],
+#set-khu:checked ~ .logo-tabs label[for="set-khu"] {
+  color: #990F19;
+  background-color: #fff;
+  border-color: #ddd;
+}
+#set-ami:focus ~ .logo-tabs label[for="set-ami"],
+#set-khu:focus ~ .logo-tabs label[for="set-khu"] { outline: 2px solid #0F2E62; outline-offset: 2px; }
+
+.logo-panel { display: none; }
+#set-ami:checked ~ .logo-panel-ami,
+#set-khu:checked ~ .logo-panel-khu { display: block; }
+
 .logo-allbtn {
   display: inline-block;
   padding: 0.55rem 1.1rem;
@@ -130,46 +179,57 @@ logos:
 .logo-usage li { margin-bottom: 0.25rem; }
 </style>
 
+<div class="logo-sets">
+<input type="radio" name="logoset" id="set-ami" class="logo-set-input" checked>
+<input type="radio" name="logoset" id="set-khu" class="logo-set-input">
+
+<div class="logo-tabs">
+<label for="set-ami">AMI Lab</label>
+<label for="set-khu">Kyung Hee University</label>
+</div>
+
+<div class="logo-panel logo-panel-ami">
+
 <p>
-  <a class="logo-allbtn" href="{{ '/assets/logo/AMI_LAB_logo_pack.zip' | relative_url }}" download>
-    Download all logos <span class="logo-allbtn-sub">(ZIP, 7 MB &middot; incl. Illustrator .ai source)</span>
-  </a>
+<a class="logo-allbtn" href="{{ '/assets/logo/ami/AMI_LAB_logo_pack.zip' | relative_url }}" download>
+Download all AMI Lab logos <span class="logo-allbtn-sub">(ZIP, 7 MB &middot; incl. Illustrator .ai source)</span>
+</a>
 </p>
 
 {% assign variants = "red,blue" | split: "," %}
 {% for variant in variants %}
-  {% if variant == "red" %}
-  <div class="logo-section-title">
-  Red
-  <span class="logo-swatches"><span class="logo-chip" style="background:linear-gradient(135deg,#b30004,#8f000d)"></span>#B30004 &rarr; #8F000D</span>
-  </div>
-  {% else %}
-  <div class="logo-section-title">
-  Blue
-  <span class="logo-swatches"><span class="logo-chip" style="background:linear-gradient(135deg,#003373,#002453)"></span>#003373 &rarr; #002453</span>
-  </div>
-  {% endif %}
+{% if variant == "red" %}
+<div class="logo-section-title">
+Red
+<span class="logo-swatches"><span class="logo-chip" style="background:linear-gradient(135deg,#b30004,#8f000d)"></span>#B30004 &rarr; #8F000D</span>
+</div>
+{% else %}
+<div class="logo-section-title">
+Blue
+<span class="logo-swatches"><span class="logo-chip" style="background:linear-gradient(135deg,#003373,#002453)"></span>#003373 &rarr; #002453</span>
+</div>
+{% endif %}
 
-  <div class="logo-grid">
-  {% for logo in page.logos %}
-  {% if variant == "red" %}{% assign stem = logo.red %}{% else %}{% assign stem = logo.blue %}{% endif %}
-  <div class="logo-card">
-  <div class="logo-preview">
-  <img src="{{ '/assets/logo/SVG/' | append: stem | append: '.svg' | relative_url }}" alt="AMI Lab logo &mdash; {{ logo.label }} ({{ variant }})" loading="lazy">
-  </div>
-  <div class="logo-overlay">
-  <a href="{{ '/assets/logo/SVG/' | append: stem | append: '.svg' | relative_url }}" download="AMI_LAB_{{ stem }}.svg" title="Download SVG (vector)">SVG</a>
-  <a href="{{ '/assets/logo/PNG/' | append: stem | append: '.png' | relative_url }}" download="AMI_LAB_{{ stem }}.png" title="Download PNG (transparent background)">PNG</a>
-  <a href="{{ '/assets/logo/PDF/' | append: stem | append: '.pdf' | relative_url }}" download="AMI_LAB_{{ stem }}.pdf" title="Download PDF (vector)">PDF</a>
-  <a href="{{ '/assets/logo/JPEG/' | append: stem | append: '.jpg' | relative_url }}" download="AMI_LAB_{{ stem }}.jpg" title="Download JPG (white background)">JPG</a>
-  </div>
-  <div class="logo-meta">
-  <div class="logo-name">{{ logo.label }}</div>
-  <div class="logo-note">{{ logo.note }}</div>
-  </div>
-  </div>
-  {% endfor %}
-  </div>
+<div class="logo-grid">
+{% for logo in page.ami_logos %}
+{% if variant == "red" %}{% assign stem = logo.red %}{% else %}{% assign stem = logo.blue %}{% endif %}
+<div class="logo-card">
+<div class="logo-preview">
+<img src="{{ '/assets/logo/ami/SVG/' | append: stem | append: '.svg' | relative_url }}" alt="AMI Lab logo &mdash; {{ logo.label }} ({{ variant }})" loading="lazy">
+</div>
+<div class="logo-overlay">
+<a href="{{ '/assets/logo/ami/SVG/' | append: stem | append: '.svg' | relative_url }}" download="AMI_LAB_{{ stem }}.svg" title="Download SVG (vector)">SVG</a>
+<a href="{{ '/assets/logo/ami/PNG/' | append: stem | append: '.png' | relative_url }}" download="AMI_LAB_{{ stem }}.png" title="Download PNG (transparent background)">PNG</a>
+<a href="{{ '/assets/logo/ami/PDF/' | append: stem | append: '.pdf' | relative_url }}" download="AMI_LAB_{{ stem }}.pdf" title="Download PDF (vector)">PDF</a>
+<a href="{{ '/assets/logo/ami/JPEG/' | append: stem | append: '.jpg' | relative_url }}" download="AMI_LAB_{{ stem }}.jpg" title="Download JPG (white background)">JPG</a>
+</div>
+<div class="logo-meta">
+<div class="logo-name">{{ logo.label }}</div>
+<div class="logo-note">{{ logo.note }}</div>
+</div>
+</div>
+{% endfor %}
+</div>
 {% endfor %}
 
 <div class="logo-usage" markdown="1">
@@ -179,4 +239,50 @@ logos:
 - Leave clear space around the logo — at least the height of the emblem's circle.
 - Place the logo on a plain, light background whenever possible.
 - For any other use, or if you need a different file format, contact [Ka Young Kim](mailto:uwrgoy7584@gmail.com).
+</div>
+
+</div>
+
+<div class="logo-panel logo-panel-khu">
+
+<p>
+<a class="logo-allbtn" href="{{ '/assets/logo/khu/KHU_logo_pack.zip' | relative_url }}" download>
+Download all KHU logos <span class="logo-allbtn-sub">(ZIP, 8 MB &middot; incl. Illustrator .ai source)</span>
+</a>
+</p>
+
+<div class="logo-section-title">
+Kyung Hee University
+<span class="logo-swatches"><span class="logo-chip" style="background:#253a71"></span>#253A71<span class="logo-chip" style="background:#9c1c1f; margin-left:0.5rem"></span>#9C1C1F<span class="logo-chip" style="background:#b4975a; margin-left:0.5rem"></span>#B4975A</span>
+</div>
+
+<div class="logo-grid">
+{% for logo in page.khu_logos %}
+<div class="logo-card">
+<div class="logo-preview">
+<img src="{{ '/assets/logo/khu/SVG/' | append: logo.stem | append: '.svg' | relative_url }}" alt="Kyung Hee University logo &mdash; {{ logo.label }}" loading="lazy">
+</div>
+<div class="logo-overlay">
+<a href="{{ '/assets/logo/khu/SVG/' | append: logo.stem | append: '.svg' | relative_url }}" download="{{ logo.stem }}.svg" title="Download SVG (vector)">SVG</a>
+<a href="{{ '/assets/logo/khu/PNG/' | append: logo.stem | append: '.png' | relative_url }}" download="{{ logo.stem }}.png" title="Download PNG (transparent background)">PNG</a>
+<a href="{{ '/assets/logo/khu/PDF/' | append: logo.stem | append: '.pdf' | relative_url }}" download="{{ logo.stem }}.pdf" title="Download PDF (vector)">PDF</a>
+<a href="{{ '/assets/logo/khu/JPEG/' | append: logo.stem | append: '.jpg' | relative_url }}" download="{{ logo.stem }}.jpg" title="Download JPG (white background)">JPG</a>
+</div>
+<div class="logo-meta">
+<div class="logo-name">{{ logo.label }}</div>
+<div class="logo-note">{{ logo.note }}</div>
+</div>
+</div>
+{% endfor %}
+</div>
+
+<div class="logo-usage" markdown="1">
+**Usage**
+
+- These are Kyung Hee University's official marks. Use them according to the university's CI guidelines and do not redraw or recolor them.
+- Keep the original proportions and leave clear space around the mark.
+- For any other use, or if you need a different file format, contact [Ka Young Kim](mailto:uwrgoy7584@gmail.com).
+</div>
+
+</div>
 </div>
