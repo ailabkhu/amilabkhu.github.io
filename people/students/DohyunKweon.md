@@ -8,7 +8,7 @@ subtitle: AMI Lab Family
 
 #### Dohyun Kweon
   
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/DohyunKweon.jpg" width="200" height="265" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/DohyunKweon.png" width="200" height="265" align="left" hspace="20" />
 Undergraduate Intern (2026.9~)       
 
 Department of Computer Science Engineering, Kyung Hee University  
