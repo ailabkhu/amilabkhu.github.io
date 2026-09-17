@@ -28,7 +28,7 @@ subtitle: AMI Lab Family
 
 #### Undergraduate Interns
 * [Hyeoksu Hwang](students/HyeoksuHwang.md)
-* [Dohyun Kwon]()
+* [Dohyun Kweon](students/DohyunKweon.md)
 
 
 
