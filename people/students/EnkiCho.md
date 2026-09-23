@@ -6,7 +6,7 @@ subtitle: AMI Lab Family
 
 <hr>
 
-#### Enki Cho
+#### Eunki Cho
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/EnkiCho.jpg" width="200" height="265" align="left" hspace="20" />
 PhD Student (2024.3~)                     

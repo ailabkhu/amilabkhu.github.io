@@ -5,7 +5,7 @@ subtitle: AMI Lab Family
 ---
   
 #### PhD/MS-PhD students
-* [Enki Cho](students/EnkiCho.md) 
+* [Eunki Cho](students/EnkiCho.md) 
 * [Yong Hyun Ahn](students/YongHyunAhn.md)                        
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
