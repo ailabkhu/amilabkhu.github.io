@@ -17,10 +17,12 @@ div.row ul li {
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2026  
-- **[C67]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                                                   **Minkuk Kim**, Junho Kim\*, **Seong Tae Kim***                                                                                                                                               
+- **[C67]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                          
+ **Minkuk Kim**, Junho Kim\*, **Seong Tae Kim***                                                                                                                                               
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026 
 
-- **[C66]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning                                                                                                                                        **Eunki Cho**, Hyeon Bae Kim, **Seong Tae Kim***                                                                                                                                               
+- **[C66]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning
+  **Eunki Cho**, Hyeon Bae Kim, **Seong Tae Kim***                                                                                                                                                
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026
 
 - **[C65]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
