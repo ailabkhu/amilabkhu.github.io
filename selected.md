@@ -17,7 +17,7 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- - **[S52]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                          
+- **[S52]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                          
  **Minkuk Kim**, Junho Kim\*, **Seong Tae Kim***                                                                                                                                               
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026 
 
