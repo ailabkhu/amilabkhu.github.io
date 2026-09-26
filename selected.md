@@ -22,7 +22,7 @@ div.row ul li {
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026 
 
 - **[S51]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning                                                                                                                          
-  **Eunki Cho**, Hyeon Bae Kim, **Seong Tae Kim***                                                                                                                                                
+  **Eunki Cho**, **Hyeon Bae Kim**, **Seong Tae Kim***                                                                                                                                                
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026
 
 - **[S50]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
