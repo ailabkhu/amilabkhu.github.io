@@ -21,7 +21,8 @@ div.row ul li {
  **Minkuk Kim**, Junho Kim\*, **Seong Tae Kim***                                                                                                                                               
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026 
 
-- **[C66]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning
+- **[C66]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning                                                                                                                          
+
   **Eunki Cho**, Hyeon Bae Kim, **Seong Tae Kim***                                                                                                                                                
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026
 
