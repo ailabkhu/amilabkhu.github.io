@@ -154,6 +154,7 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 
 ### Recent News
 <hr>
+- Sep. 2026 Two papers got accepted to **NeurIPS 2026**! Congrats Minkuk, Eunki, Hyeon Bae!
 - Jun. 2026 Two papers got accepted to **ECCV 2026**! Congrats Minkuk, Suyong, Youngtae!
 - Jun. 2026 One paper got accepted to **Scientific Reports (IF: 4.9, JCR IF Rank 14.4%)**! Congrats Soyoun, Youngseob, SAM!
 - Jun. 2026 One paper got accepted to **International Journal of Computer Assisted Radiology and Surgery (IF: 2.8, JCR IF Rank 20.7%)**!
@@ -162,7 +163,7 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 - Feb. 2026 One paper got accepted to **CVPR 2026**! 
 - Feb. 2026 Two papers got accepted to **Medical Image Analysis (IF: 14.0, JCR IF Rank 1.6%)**! 
 - Feb. 2026 One paper got accepted to **MIDL 2026**! Congrats SAM!
-- Feb. 2026 One paper got accepted to **IPCAI 2026**! Congrats Ka Young, Enki!
+- Feb. 2026 One paper got accepted to **IPCAI 2026**! Congrats Ka Young, Eunki!
 - Feb. 2026 Kayoung is at TU Munich (CAMP Chair) for four months as a visiting scholar.
 - Feb. 2026 One MICCAI 2026 workshop got accepted. Prof. Seong Tae Kim will serve as Co-Chair of [GRAIL (Workshop on GRaphs in biomedicAl Image anaLysis)](https://grail-miccai.github.io/) 
 - Feb. 2026 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2026**!
@@ -173,9 +174,9 @@ Please feel free to contacy by email (st.kim@khu.ac.kr) with a brief introductio
 - Sep. 2025 One paper (on Explainable AI) got accepted to **NeurIPS 2025** as **Spotlight**! Congrats!
 - Sep. 2025 One paper got accepted to **Image and Vision Computing (IF: 4.2, JCR IF Rank 16.8%)**! Congrats!
 - Aug. 2025 Prof. Seong Tae Kim gave a talk at Workshop on Developing Globally Reliable AI systems for Automated Surgical Procedures in Munich
-- Jun. 2025 Three papers got accepted to **MICCAI 2025**! Congrats Ka Young, Enki, Hyeon Bae!
+- Jun. 2025 Three papers got accepted to **MICCAI 2025**! Congrats Ka Young, Eunki, Hyeon Bae!
 - May 2025 One paper got accepted to **Neural Networks (IF: 6.0, JCR IF Rank 10.5%)**! Congrats Soyoun!
-- May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Enki, Soyoun, Oh Sung!
+- May 2025 One paper got accepted to **IEEE Geoscience and Remote Sensing Letters (IF: 4.0, JCR IF Rank 10.4%)**! Congrats Eunki, Soyoun, Oh Sung!
 - May 2025 One paper got accepted to **ICML 2025**! Congrats!
 - Apr. 2025 Prof. Seong Tae Kim delivered an invited talk at the [POSTECH CSE/GSAI Seminar](https://ai.postech.ac.kr/seminar_info/view/page/2/id/634#u)
 - Mar. 2025 Enki is at New York University for six months as a visiting scholar (Global AI Frontier Lab.)
