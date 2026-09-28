@@ -139,8 +139,8 @@ At AMI Lab, Augmented Intelligence represents our vision of developing AI that t
 We pursue AI research for humanity-technology that is explainable, trustworthy, and deeply aligned with human understanding.       
 
 ### Research Focus:                 
-Key Technologies: Explainability, Trustworthy Machine Learning, Multimodal Learning, Reasoning, Human-level Understanding                                   
-Applications: Video Understanding, Surgical AI, Medical AI, Space AI
+Key Technologies: Explainability, Trustworthy AI, Human-level Understanding, Agentic AI, Vision-Language Models                                   
+Applications: Long Video Understanding, Surgical AI, Medical AI, Space AI, Robotics
 
 ### Our Mission:           
 Contribute to the community: We value contribution over competition.                              
