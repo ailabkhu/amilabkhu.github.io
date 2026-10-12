@@ -33,6 +33,10 @@ _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
+- **[J33]** SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions                                                                                                                     
+Hao Ding, Yuqian Zhang, ..., **Samra Irshad**, Shadi Albarqouni, **Seong Tae Kim**, ..., João L. Vilaça, Mathias Unberath                                                                                                                                       
+_IEEE Transactions on Medical Imaging_, 2026
+
 - **[J32]** Interpretability of Multimodal Neural Networks for Prediction of Visual Acuity in Patients with Branch Retinal Vein Occlusion                                                                                                                     
 **Soyoun Won†**, Kiyoung Kim†, **Youngseob Won**, **Samra Irshad**, Sungyoung Lee, Seung-Young Yu\*, **Seong Tae Kim***                                                                                                                                       
 _Scientific Reports_, 2026
