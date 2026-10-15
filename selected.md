@@ -17,25 +17,29 @@ div.row ul li {
 *: Corresponding Author,  †: Co-first                                                                                                                 
 **Bold**: Member of Augmented Intelligence Lab.              
 
-- **[S47]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                          
+- **[S48]** TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding                                                                                                                          
  **Minkuk Kim**, Junho Kim\*, **Seong Tae Kim***                                                                                                                                               
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026 
 
-- **[S46]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning                                                                                                                          
+- **[S47]** CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning                                                                                                                          
   **Eunki Cho**, **Hyeon Bae Kim**, **Seong Tae Kim***                                                                                                                                                
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2026
 
-- **[S45]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
+- **[S46]** ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA                                                                                                                                                                   
 **Minkuk Kim†**, **Suyong Yun†**, **Young Tae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***                                                                                                                                               
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
-- **[S44]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
+- **[S45]** PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas                                                                                                                                                        
 Chan Lee, Kimin Yun, Yuseok Bae, **Seong Tae Kim***, Jung Uk Kim\*                                                                                                                                        
 _European Conference on Computer Vision (**ECCV**)_, 2026 (Malmö)
 
-- **[S43]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
+- **[S44]** Research Design Considerations for Empirical User Studies in MICCAI                                                                                                                                                                                                                    
 Sue Min Cho†, Catalina Gomez†, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, **Seong Tae Kim**, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath                         
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2026 (Strasbourg)
+
+- **[S43]** SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions                                                                                                                     
+Hao Ding, Yuqian Zhang, ..., **Samra Irshad**, Shadi Albarqouni, **Seong Tae Kim**, ..., João L. Vilaça, Mathias Unberath                                                                                                                                       
+_IEEE Transactions on Medical Imaging_, 2026
 
 - **[S42]** FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift                                                                                                                                                                                                      
 **Huy Quang Le**, Loc X. Nguyen, Yu Qiao, **Seong Tae Kim***, Eui-Nam Huh\*, Choong Seon Hong\*                        
