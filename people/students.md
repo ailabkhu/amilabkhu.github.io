@@ -9,7 +9,7 @@ subtitle: AMI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md)                        
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
-* [Minkuk Kim](students/MinKukKim.md)
+* [Minkuk Kim](https://geppa.github.io/)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (Student Representative)            
 * [Youngtae Kim](students/YoungtaeKim.md)
 * [Suyong Yun](students/SuyongYun.md)
