@@ -41,5 +41,5 @@ subtitle: AMI Lab Family
 * [Abdullah](students/Abdullah.md) (MS 2025), PhD candidate at KHU CVLab
 * Yebin Ji (MS 2025)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md) (MS 2025), PhD candidate at KHU AMILab
-* [Ka Young Kim](students/KaYoungKim.md) (MS 2026), PhD candidate at TU Munich
+* [Ka Young Kim](https://yonding.github.io/) (MS 2026), PhD candidate at TU Munich
 
